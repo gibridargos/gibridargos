@@ -1,0 +1,398 @@
+[
+  {
+    "question": "Hamshiralik ishiga asos solgan inson:",
+    "answer1": "F.Naytingeуl",
+    "answer2": "Abu Ali Ibn Sino",
+    "answer3": "N.I Aripov",
+    "answer4": "Gipokrat",
+    "correct_answer": "F.Naytingeуl"
+  },
+  {
+    "question": "Xalqaro hamshiralik kuni qachon nishonlanadi:",
+    "answer1": "12 may",
+    "answer2": "9 may",
+    "answer3": "25 noyabr",
+    "answer4": "Noyabr oyining ikkinchi yakshanbasi",
+    "correct_answer": "12 may"
+  },
+  {
+    "question": "Xalqaro hamshiralar kuni nechanchi yildan boshlab nishonlanadi:",
+    "answer1": "1971",
+    "answer2": "1990",
+    "answer3": "1890",
+    "answer4": "1820",
+    "correct_answer": "1971"
+  },
+  {
+    "question": "Xalqaro hamshiralik assotsiyatsiyasiga qachon asos solingan:",
+    "answer1": "1899",
+    "answer2": "1820",
+    "answer3": "1971",
+    "answer4": "1844",
+    "correct_answer": "1899"
+  },
+  {
+    "question": "Xalqaro hamshiralik assotsiyatsiyasi asosiy vazifasi:",
+    "answer1": "Hamshiralik ta’limini, hamshiraning vazifalarini, ish sharoitlarini yaxshilash normativlarni ishlab chiqarish, xalqaro konferensiyalarni o’tkazish",
+    "answer2": "Hamshiralar bilan seminar trening va konferensiyalar o’tkazish",
+    "answer3": "Hamshiralarni ish bilan ta’minlash",
+    "answer4": "Hamshiralarni mukofotlash",
+    "correct_answer": "Hamshiralik ta’limini, hamshiraning vazifalarini, ish sharoitlarini yaxshilash normativlarni ishlab chiqarish, xalqaro konferensiyalarni o’tkazish"
+  },
+  {
+    "question": "O’zbekistonda qizil hoj va qizil yarim oy jamiyati qachon tashkil etilgan:",
+    "answer1": "1925",
+    "answer2": "1971",
+    "answer3": "1919.",
+    "answer4": "1985",
+    "correct_answer": "1925"
+  },
+  {
+    "question": "Xalqaro salomatlik kuni qachon nishonlanadi:",
+    "answer1": "7-aprel",
+    "answer2": "12 may",
+    "answer3": "Noyabr oyining ikkinchi yakshanbasi",
+    "answer4": "29 avgust",
+    "correct_answer": "7-aprel"
+  },
+  {
+    "question": "Jahon sogliqni saqlash tashkiloti ning asosiy vazifalari:",
+    "answer1": "Bemorlarni dispanser nazoratiga olish",
+    "answer2": "Xalqaro standatrlari belgilash, dori moddalari va narkotiklar ustidan nazorat qilish",
+    "answer3": "Xalqaro qizil yarim oy jamiyati bilan hamkorlik qilish",
+    "answer4": "Nogironligi bor shaxslarga FTEK yo’llanmalarini berish",
+    "correct_answer": "Xalqaro standatrlari belgilash, dori moddalari va narkotiklar ustidan nazorat qilish"
+  },
+  {
+    "question": "O’zbekiston Republikasi birlashgan millatlar tashkilotiga qachon a’zo bo’lgan:",
+    "answer1": "1992",
+    "answer2": "1958",
+    "answer3": "1998",
+    "answer4": "1945",
+    "correct_answer": "1992"
+  },
+  {
+    "question": "“F.Naytingel” medali bilan taqdirlangan O’zbekistonlik hamshiralar kimlar:",
+    "answer1": "Rixsi Mo’minova",
+    "answer2": "Zokirova Kamola",
+    "answer3": "To’xtamatova Dilorom",
+    "answer4": "Ziyayeva Mavluda",
+    "correct_answer": "Rixsi Mo’minova"
+  },
+  {
+    "question": "F.Naytingelning hamshiralik ishini rivojlantirishga qo’shgan hissasi qaysi javobda to’g’ri ko’rsatilgan:",
+    "answer1": "Bemorlarga o’z-ozini parvarish qilishni targ’ib qilgan",
+    "answer2": "Birinchi bo’lib, ayollar uchun kasbiy faoliyatlarni belgilab qo’ygan",
+    "answer3": "Dispanser nazoratiga olish salomatlik uchun muhim ro’l o’ynashini aniqladi",
+    "answer4": "Hamshiralikning birinchi maktabiga asos solib, o’zidan keyin ko’pgina ilmiy ishlar qoldirgan",
+    "correct_answer": "Hamshiralikning birinchi maktabiga asos solib, o’zidan keyin ko’pgina ilmiy ishlar qoldirgan"
+  },
+  {
+    "question": "Hamshiralik ishining ob’yekti bu:",
+    "answer1": "Inson",
+    "answer2": "Atrof muhit",
+    "answer3": "Kasalliklar",
+    "answer4": "Kasalxona",
+    "correct_answer": "Inson"
+  },
+  {
+    "question": "F.Naytingel medali qaysi tashkilot tomonidan ta’sis etiladi:",
+    "answer1": "Xalqaro qizil Xoj",
+    "answer2": "Birlashgan millatlar tashkiloti",
+    "answer3": "Jahon sogliqni saqlash tashkiloti",
+    "answer4": "Sogliqni saqlash vazirligi",
+    "correct_answer": "Xalqaro qizil Xoj"
+  },
+  {"question": "O’zbekistonda tibbiyot ilmining rivojlanishiga katta hissa qo’shgan olimlar:",
+    "answer1": "Abu Ali Ibn Sino",
+    "answer2": "U. Rentgen",
+    "answer3": "A.A.Pavlov",
+    "answer4": "N.I Pirogov",
+    "correct_answer": "Abu Ali Ibn Sino"
+  },
+  {
+    "question": "Bemorlarni parvarish qilish tizimi asoschisi:",
+    "answer1": "Florens Naytingeyl",
+    "answer2": "Yuliya Vrevskaya",
+    "answer3": "Еkaterina Bakunina",
+    "answer4": "Darya Sevastopolskaya",
+    "correct_answer": "Florens Naytingeyl"
+  },
+  {
+    "question": "Salomatlik haqidagi ta’limot nima deb ataladi:",
+    "answer1": "Valeologiya",
+    "answer2": "Sanalogiya",
+    "answer3": "Gerontologiya",
+    "answer4": "Diyetologiya",
+    "correct_answer": "Valeologiya"
+  },
+  {
+    "question": "Hamshira bu …:",
+    "answer1": "Hamshiralik ishi falsafasini himoya qiluvchi va hamshira sifatida faoliyat ko’rsatishga huquqliy, kasbiy ilmga ega bo’lgan mutaxasis",
+    "answer2": "Oliy toifali mutaxasis",
+    "answer3": "Maxsus diplomli kichik tibbiyot xodimi",
+    "answer4": "Bemorlarni ham ruhiy ham jismoniy quvvatlovchi shaxs",
+    "correct_answer": "Hamshiralik ishi falsafasini himoya qiluvchi va hamshira sifatida faoliyat ko’rsatishga huquqliy, kasbiy ilmga ega bo’lgan mutaxasis"
+  },
+  {
+    "question": "Salomatlik bu …:",
+    "answer1": "Salomatlik -bu organizmning jismoniy rejadagi eng yaxshi holatidir",
+    "answer2": "Salomatlik -bu organizmning ruhiy rejadagi eng yaxshi holatidir",
+    "answer3": "Salomatlik -bu organizmning ijtimoiy rejadagi eng yaxshi holatidir",
+    "answer4": "Barcha javob to’g’ri",
+    "correct_answer": "Barcha javob to’g’ri"
+  },
+  {
+    "question": "Kasallik bu …:",
+    "answer1": "Organizmda muayyan simptomlar bilan birga kechadigan patologik o’zgarishlarni tavsiflovchi holat",
+    "answer2": "Organizning har qachongidan ham og’ir ahvolda bo’lishi",
+    "answer3": "Organizmda muayyan simptomlar bilan birga kechadigan fiziologik o’zgarishlarni tavsiflovchi holat",
+    "answer4": "Hamshira parvarishiga muhtoj bo’lgan va shu parvarishni olayotgan inson",
+    "correct_answer": "Organizmda muayyan simptomlar bilan birga kechadigan patologik o’zgarishlarni tavsiflovchi holat"
+  },
+  {
+    "question": "Bugungi kun hamshirasiga qanday majburiyatlar yuklatilgan:",
+    "answer1": "Bemorlar parvarishi, profilaktika, sog’liqni saqlash, reabilitatsiya masalalari",
+    "answer2": "Davolash ishlari, maslahatlar berish",
+    "answer3": "Sifat mezonlarini ishlab chiqish",
+    "answer4": "Endemik kasalliklarni oldini olish",
+    "correct_answer": "Bemorlar parvarishi, profilaktika, sog’liqni saqlash, reabilitatsiya masalalari"
+  },
+  {
+    "question": "Hamshiraga bo’lgan zamon talablarini ko’rsating:",
+    "answer1": "Kuchli tashkilotchi, menedjer, pedagog, psixolog",
+    "answer2": "Makler, bo’lim boshlig’i",
+    "answer3": "Psihiatr",
+    "answer4": "Terapevt",
+    "correct_answer": "Kuchli tashkilotchi, menedjer, pedagog, psixolog"
+  },
+  {
+    "question": "Qizil Hoch va Qizil Yarim Oy jamiyatlari qanday maqsadlarni o’z oldiga maqsad qilib qo’ygan:",
+    "answer1": "O’g’ir yotgan bemorlarni uyda parvarishlash",
+    "answer2": "Hamshiralar faoliyatini dunyo miqyosi darajasiga yetkazish",
+    "answer3": "Patronaj xizmatini bosqichma bosqich ko’rib chiqish",
+    "answer4": "Hamshiralar huquqlarini himoya qilish",
+    "correct_answer": "O’g’ir yotgan bemorlarni uyda parvarishlash"
+  },
+  {
+    "question": "Tibbiyotning asosiy vazifasi bu ...:",
+    "answer1": "Sog’liqni saqlash va yo’qotilgan sog’liqni tiklash",
+    "answer2": "Kasalliklarni yo’qotish",
+    "answer3": "Iqtisodiy barkamollikka erishish",
+    "answer4": "O’sma kasalliklarini profilaktikasi",
+    "correct_answer": "Sog’liqni saqlash va yo’qotilgan sog’liqni tiklash"
+  },
+  {
+    "question": "Hamshira parvarishining asosiy maqsadi:",
+    "answer1": "Inson ehtiyojlarini qondirish, o’z- o’zini parvarish qilishga o’rgatish va unga qanday yordam kerakligini aniqlash",
+    "answer2": "Shaxsiy extiyojlarni ta’minlash","answer3": "Mijozning huquqiy yordam olishini ta’minlash",
+    "answer4": "Bemorda yangi muammolar kelib chiqishini oldini olish va tushuntirish",
+    "correct_answer": "Inson ehtiyojlarini qondirish, o’z- o’zini parvarish qilishga o’rgatish va unga qanday yordam kerakligini aniqlash"
+  },
+  {
+    "question": "Ma'lum profildagi bemorlar guruhiga davolash-profilaktik yordam ko’rsatadigan mahsus muassasa – bu:",
+    "answer1": "Dispanser",
+    "answer2": "Poliklinika",
+    "answer3": "Tibbiy sanitariya qismi",
+    "answer4": "Tez yordam stansiyasi",
+    "correct_answer": "Dispanser"
+  },
+  {
+    "question": "Davolash profilaktika muassasalari quyidagi turlarga bo'linadi:",
+    "answer1": "Oilaviy poliklinikalar",
+    "answer2": "Sog’lomlashtirish sanatoriylari",
+    "answer3": "Ona va bola skrining markazlari",
+    "answer4": "Madaniy va ma’rifiy markazlar",
+    "correct_answer": "Oilaviy poliklinikalar"
+  },
+  {
+    "question": "Ambulator poliklinika hamshirasining vazifalari:",
+    "answer1": "Bemorlar ko'rigida shifokorga yordam berish, tibbiy hujjatlarni tayyorlash va Yuritish",
+    "answer2": "Bemorlarni ko'rikdan o’tkazish va tashxislash",
+    "answer3": "Tibbiy nazoratga olish",
+    "answer4": "Bemorlarga huquqiy bilimlarni o'rgatish",
+    "correct_answer": "Bemorlar ko'rigida shifokorga yordam berish, tibbiy hujjatlarni tayyorlash va Yuritish"
+  },
+  {
+    "question": "Ambulatoriya nima:",
+    "answer1": "Davolash profilaktika muassasalari bo'lib, huddi poliklinika kabi faoliyat yuritadi, lekin hizmat ko'rsatish hajmi bilan farq qiladi",
+    "answer2": "Kunduz tibbiy tez yordam ko'rsatuvchi davolash profilaktika muassasalari",
+    "answer3": "Bemorlarni statsionar sharoitida davolashga mo'ljallangan davolash profilaktika muassasalari",
+    "answer4": "Shoshilinch yordam ko’rsatish muassasasi",
+    "correct_answer": "Davolash profilaktika muassasalari bo'lib, huddi poliklinika kabi faoliyat yuritadi, lekin hizmat ko'rsatish hajmi bilan farq qiladi"
+  },
+  {
+    "question": "Bemorlarni tekshirish usullariga kiradi:",
+    "answer1": "Kasallik tarixi, ambulator karta, statistik talon yuritish",
+    "answer2": "Sub’yektiv, ob’yektiv,laborator va funksional",
+    "answer3": "Hukumat yoki sug’urta kompaniyalaridan moliyaviy kompensatciya olish uchun ma'lumot taqdim etish",
+    "answer4": "Qonuniy (rasmiy) muolajalrni o'tkazishda yuridik hujjatlarni taqdim etish",
+    "correct_answer": "Sub’yektiv, ob’yektiv,laborator va funksional"
+  },
+  {
+    "question": "Bemorlarni qayd qilish jurnali qanday tibbiy hujjat shakli:",
+    "answer1": "001/U",
+    "answer2": "060/U",
+    "answer3": "058/U",
+    "answer4": "063/U",
+    "correct_answer": "001/U"
+  },
+  {
+    "question": "Salomatlik to’g’risidagi ma’lumotnoma qanday hujjat shakli:",
+    "answer1": "086/U",
+    "answer2": "060/U",
+    "answer3": "058/U",
+    "answer4": "063/U",
+    "correct_answer": "086/U"
+  },
+  {
+    "question": "Emlash kartasi qanday hujjat shakli:",
+    "answer1": "063/U",
+    "answer2": "086/U",
+    "answer3": "060/U",
+    "answer4": "058/U",
+    "correct_answer": "063/U"
+  },
+  {
+    "question": "Kasalhonadagi bemorning tibbiy varaqasi qanday hujjat shakli:",
+    "answer1": "003/U",
+    "answer2": "001/U",
+    "answer3": "004/U",
+    "answer4": "061/U",
+    "correct_answer": "003/U"
+  },
+  {
+    "question": "Qaysi tibbiyot muassasalari birlamchi tibbiy sanitariya yordamini ko’rsatmaydi:",
+    "answer1": "Sanitariya - epidemiologik markazlari, dispanserlar, tibbiy sanitary qismlari, sudekspertizasi muassasalari",
+    "answer2": "Ambulatoriya poliklinika muassasalari",
+    "answer3": "Shoshilinch tibbiy yordam ko'rsatish muassasalari",
+    "answer4": "Stacionarlar, akusherlik komplekslari",
+    "correct_answer": "Sanitariya - epidemiologik markazlari, dispanserlar, tibbiy sanitary qismlari, sudekspertizasi muassasalari"
+  },
+  {
+    "question": "Dispanser nima:",
+    "answer1": "Muayyan guruh aholini tibbiy ko’rikdan o’tkazadigan muassasa",
+    "answer2": "Yuqumli kasalliklarni davolovchi muassasa","answer3": "Kunduzgi muolajalarni bajaruvchi muassasa",
+    "answer4": "Fizioterapevtik muolajalar honasi",
+    "correct_answer": "Muayyan guruh aholini tibbiy ko’rikdan o’tkazadigan muassasa"
+  },
+  {
+    "question": "Dispanserizatsiya nima:",
+    "answer1": "Aholini yoppasiga tibbiy ko’rikdan o’tkazish",
+    "answer2": "Aholini tibbiy madaniyatini oshirish",
+    "answer3": "Aholiga birinchi tibbiy yordam ko’rsatish",
+    "answer4": "Aholiga emlash ishlarini o’tkazish",
+    "correct_answer": "Aholini yoppasiga tibbiy ko’rikdan o’tkazish"
+  },
+  {
+    "question": "Ambulator karta nomer … hujjat:",
+    "answer1": "025/u",
+    "answer2": "060/u",
+    "answer3": "063/u",
+    "answer4": "058/u",
+    "correct_answer": "025/u"
+  },
+  {
+    "question": "Bolalarni rivojlanish kartasi nomer …hujjat:",
+    "answer1": "112/u",
+    "answer2": "060/u",
+    "answer3": "063/u",
+    "answer4": "058/u",
+    "correct_answer": "112/u"
+  },
+  {
+    "question": "(QVP) Qishloq vrachlik punkti nima:",
+    "answer1": "Qishloq vrachlik punkti",
+    "answer2": "Qon quyish markazi",
+    "answer3": "Qishloq vrachlik poliklinikasi",
+    "answer4": "Tez yordam markazi",
+    "correct_answer": "Qishloq vrachlik punkti"
+  },
+  {
+    "question": "Xospis nima:",
+    "answer1": "Tuzalmaydigan kasallik bilan kasallangan bemorlar uchun muassasa",
+    "answer2": "Tuzaladigan kasallik bilan kasallangan bemorlar uchun muassasa",
+    "answer3": "Tez tibbiy yordam ko’rsatadigan muassasa",
+    "answer4": "Davolash profilaktika muassasasi",
+    "correct_answer": "Tuzalmaydigan kasallik bilan kasallangan bemorlar uchun muassasa"
+  },
+  {
+    "question": "Steril asboblar biksda qancha muddat saqlanishi mumkin:",
+    "answer1": "24 soat",
+    "answer2": "1 soat",
+    "answer3": "10-12 soat",
+    "answer4": "72 soat",
+    "correct_answer": "24 soat"
+  },
+  {
+    "question": "Atrof-muhitidagi yuqumli kasalliklar qo’zg’atuvchilarini yo’qotish bu:",
+    "answer1": "Dezinfeksiya",
+    "answer2": "Dezinseksiya",
+    "answer3": "Deratizasiya",
+    "answer4": "Sterillizasiya",
+    "correct_answer": "Dezinfeksiya"
+  },
+  {
+    "question": "Qon yoki biologik suyuqliklar ko’zga sachraganda birinchi bo’lib qilinishi lozim bo’lgan hatti harakat:",
+    "answer1": "Darhol oqar suvda yuvib tashlanadi",
+    "answer2": "Dez eritma bilan yoki sovunlab yuviladi",
+    "answer3": "Kaliy permanganat bilan yuviladi",
+    "answer4": "Sanitar epidemiologik stantsiya ga murojat qilinadi",
+    "correct_answer": "Darhol oqar suvda yuvib tashlanadi"
+  },
+  {
+    "question": "Shifoxona ichi infeksiyalarini keng tarqalishiga sababchi bo’lgan asosiy omillar:",
+    "answer1": "Antibiotiklardan noto’g’ri foydalanish",
+    "answer2": "Noto’g’ri statsionar rejimini tashkil etish",
+    "answer3": "Bemorni zararli odatlari ko’pligi",
+    "answer4": "Ichki nazoratni yo’qligi",
+    "correct_answer": "Noto’g’ri statsionar rejimini tashkil etish"
+  },
+  {
+    "question": "Tibbiy chiqindilarni yo’q qilish usullarini ko’rsating:",
+    "answer1": "Kuydirish va nurlantirish",
+    "answer2": "Oddiy va maxsus usul",
+    "answer3": "Murakkab usul",
+    "answer4": "Deratizatsion usul",
+    "correct_answer": "Kuydirish va nurlantirish"
+  },
+  {
+    "question": "Ifloslangan shprits va ignalar uchun qanday idishlar ishlatiladi:",
+    "answer1": "Kraft paketlar",
+    "answer2": "Teshilmaydigan idishlar",
+    "answer3": "Bir marotabali selofan paketlar",
+    "answer4": "Plastik butilkalar, qopqoqli shisha idishlar",
+    "correct_answer": "Teshilmaydigan idishlar"
+  },
+  {
+    "question": "Sistemalar qanday dezinfeksiya qilinadi:",
+    "answer1": "Maxsus nurlar yordamida zararsizlantiriladi",
+    "answer2": "Sistemalar qirqiladi, xlor 0,5 % li dez moddada zararsizlantiriladi",
+    "answer3": "Gipoxlorid kalsiyga solinadi va olinib 20 daqiqada qaynatiladi",
+    "answer4": "10 daqiqa xloraminga solib zararsizlantiriladi",
+    "correct_answer": "Sistemalar qirqiladi, xlor 0,5 % li dez moddada zararsizlantiriladi"
+  },
+  {
+    "question": "Muolajadan oldin va keyin tibbiyot hodimlari qo’lga qanday ishlov beradi:","answer1": "Fizik va kimyoviy usullarni qo’llagan holda qo’llar yuviladi",
+    "answer2": "San Q va M me’yoriy hujjat asosida qo’llarga 6 ta bosqichda ishlov beriladi",
+    "answer3": "Qo’lga maxsus Gellar va kimyoviy vositalar bilan ishlov beriladi",
+    "answer4": "San Q va M asosida qo’lni dez eritma bilan yuviladi",
+    "correct_answer": "San Q va M me’yoriy hujjat asosida qo’llarga 6 ta bosqichda ishlov beriladi"
+  },
+  {
+    "question": "Suyuq chiqindilar bilan ishlaganda nimalardan foydalanish kerak:",
+    "answer1": "Ho’jalik rezinali perchatka, himoya ko’zoynagi, kliyonka fartuklardan",
+    "answer2": "Steril rezinali perchatka, himoya ko’zoynagi, kliyonka fartuklardan",
+    "answer3": "Steril rezinali perchatka, himoya ko’zoynagi",
+    "answer4": "Bahila,himoya ko’zoynagi, kliyonka fartuklardan",
+    "correct_answer": "Ho’jalik rezinali perchatka, himoya ko’zoynagi, kliyonka fartuklardan"
+  },
+  {
+    "question": "Hamshiralar dezinfeksiyalovchi vositalar, kimyoviy vositalar bilan ishlaganda qanday tehnika havfsizligi qoidalariga rioya qilishi kerak:",
+    "answer1": "Dezinfeksiyalovchi vositalarni tayyorlashni yahshi shamollatiladigan honada amalga oshirishi kerak, mahsus kiyim va perchatka kiygan bo’lishi zarur, germetik ochki va maska taqqan bo’lishi lozim",
+    "answer2": "Dezinfeksiyalovchi moddalar og’zi yopiladigan idishlarda saqlanishi zarur",
+    "answer3": "Qorong’i honada tayyorlanishi kerak",
+    "answer4": "Dezinfeksiyalovchi vositalar to’q rangli idishlarda quruq va qorong’i honalarda saqlanishi kerak",
+    "correct_answer": "Dezinfeksiyalovchi vositalarni tayyorlashni yahshi shamollatiladigan honada amalga oshirishi kerak, mahsus kiyim va perchatka kiygan bo’lishi zarur, germetik ochki va maska taqqan bo’lishi lozim"
+  }
+]

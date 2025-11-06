@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Oshqozon-ichak traktining yuqumli boʻlmagan patologiyasi tufayli kelib chiqadigan koʻngil aynishi va qusish sabablari:",
+    "answer1": "ovqatdan zaharlanish",
+    "answer2": "oʻtkir qorin",
+    "answer3": "homiladorlar toksikozi",
+    "answer4": "Enterobioz",
+    "correct_answer": "homiladorlar toksikozi"
+  },
+  {
+    "question": "Koʻngil aynishi va qusishning metabolik sabablari:",
+    "answer1": "migren",
+    "answer2": "dori vositalaridan zaharlanish",
+    "answer3": "Mener kasalligi",
+    "answer4": "Uremiya",
+    "correct_answer": "Uremiya"
+  },
+  {
+    "question": "Koʻngil aynishi va qusishda davolash taktikasi quyidagilarni oʻz ichiga olmaydi:",
+    "answer1": "anamnezni sinchiklab yigʻish",
+    "answer2": "najas tahlili",
+    "answer3": "yosh ayollarda homiladorlik testi",
+    "answer4": "qatʼiy yotoq rejimi",
+    "correct_answer": "qatʼiy yotoq rejimi"
+  },
+  {
+    "question": "Yara kasalligi terapiyasi quyidagilarni oʻz ichiga oladi:",
+    "answer1": "yotoq tartibi va maxsus parhez",
+    "answer2": "H. Pilory eradikatsiyasi uchun uch komponentli terapiya",
+    "answer3": "aminoglikozidlar guruhidan antibiotiklar",
+    "answer4": "12-18 haftaga omeprazol",
+    "correct_answer": "H. Pilory eradikatsiyasi uchun uch komponentli terapiya"
+  },
+  {
+    "question": "Yarani jarrohlik yoʻli bilan davolashga koʻrsatma:",
+    "answer1": "Malignizatsiya",
+    "answer2": "kamqonlik",
+    "answer3": "TVI (tana vazni indeksi) ning 27 dan pastligi",
+    "answer4": "tez-tez zarda qaynashi",
+    "correct_answer": "Malignizatsiya"
+  },
+  {
+    "question": "Yarani jarrohlik yoʻli bilan davolash asorati:",
+    "answer1": "giperglikemiya",
+    "answer2": "temir tanqisligi anemiyasi",
+    "answer3": "demping sindromi",
+    "answer4": "kuchli kekirish",
+    "correct_answer": "demping sindromi"
+  },
+  {
+    "question": "Takroriy qusish shikoyati bilan murojaat qilgan bemorlarda quyidagilar zarur:",
+    "answer1": "serukalning tavsiya qilinishi",
+    "answer2": "oshqozonni yuvish",
+    "answer3": "sababini aniqlash uchun anamnez yigʻish",
+    "answer4": "agar homilador ayol boʻlsa, umumiy siydik tahlilini oʻtkazish",
+    "correct_answer": "sababini aniqlash uchun anamnez yigʻish"
+  },
+  {
+    "question": "Taʼsirlangan ichak sindromida eng koʻp uchraydigan belgilar:",
+    "answer1": "asosan ich qotishi",
+    "answer2": "defekatsiya chastotasining oʻzgarishi",
+    "answer3": "defekatsiyadan oldin va keyin qorin ogʻrigʻi",
+    "answer4": "sutli parhez tayinlangandan soʻng belgilarning yaxshilanishi",
+    "correct_answer": "defekatsiyadan oldin va keyin qorin ogʻrigʻi"
+  },
+  {
+    "question": "Taʼsirlangan ichak sindromi tashxisini qoʻyish mezonlari:",
+    "answer1": "ertalab koʻngil aynishi",
+    "answer2": "belbogʻsimon ogʻriq",
+    "answer3": "malina jelesi koʻrinishidagi axlat",
+    "answer4": "toʻliq boʻshatilmaganlik hissi",
+    "correct_answer": "toʻliq boʻshatilmaganlik hissi"
+  },
+  {
+    "question": "Bolalarda qabziyatni keltirib chiqaruvchi omillar:",
+    "answer1": "ratsionda fruktozaning koʼpligi",
+    "answer2": "laktoza yetishmovchiligi",
+    "answer3": "ichak rivojlanishining tugʻma patologiyasi",
+    "answer4": "Seliakiya",
+    "correct_answer": "ichak rivojlanishining tugʻma patologiyasi"
+  },
+  {
+    "question": "Bolalarda qiziloʻngach-oshqozon reflyuksi quyidagilar bilan tavsiflanadi:",
+    "answer1": "ovqat regurgitatsiyasi va vazn ortishining yetarli emasligi",
+    "answer2": "stridor va normal jismoniy rivojlanish",
+    "answer3": "nafas yoʻllari kasalliklari rivojlanish xavfi",
+    "answer4": "ovqat regurgitatsiyasi va normal jismoniy rivojlanish",
+    "correct_answer": "ovqat regurgitatsiyasi va vazn ortishining yetarli emasligi"
+  },
+  {
+    "question": "Gastrofibroduodenoskopiyaning qanday afzalliklari bor?",
+    "answer1": "oshqozon-ichak trakti patologiyasini tasdiqlash yoki istisno qilish imkonini beradi",
+    "answer2": "oshqozon va 12 barmoqli ichak yara kasalligi skriningi uchun ishlatilishi mumkin",
+    "answer3": "simptomsiz bosqichdagi onkologiya skriningi uchun ishlatilishi mumkin",
+    "answer4": "apparatga puxta ishlov berishni talab qilmaydi",
+    "correct_answer": "oshqozon-ichak trakti patologiyasini tasdiqlash yoki istisno qilish imkonini beradi"
+  },
+  {
+    "question": "Vismut sulfatning nojoʻya taʼsiri",
+    "answer1": "oshqozon shirasining ikkilamchi gipersekretsiyasi",
+    "answer2": "nefrokalsinoz",
+    "answer3": "ich qotishi",
+    "answer4": "axlatning toʻq rangda boʻlishi",
+    "correct_answer": "axlatning toʻq rangda boʻlishi"
+  },
+  {
+    "question": "Quyidagilardan qaysi biri assitga xos emas?",
+    "answer1": "jigar sirrozining kam uchraydigan asoratlaridan biri",
+    "answer2": "assit sariqlik bilan kechishi mumkin",
+    "answer3": "oʻng qorincha yetishmovchiligi belgisi boʻlishi mumkin",
+    "answer4": "surunkali yurak yetishmovchiligida kuzatilishi mumkin",
+    "correct_answer": "jigar sirrozining kam uchraydigan asoratlaridan biri"
+  },
+  {
+    "question": "Oʻng qovurgʻa ostidagi ogʻriq quyidagilarga xos emas:",
+    "answer1": "oʻt-tosh kasalligi",
+    "answer2": "Splenit",
+    "answer3": "xoletsistit",
+    "answer4": "oʻn ikki barmoqli ichak yara kasalligi",
+    "correct_answer": "Splenit"
+  },
+  {
+    "question": "Sariqlik teri qichishi bilan kechadi:",
+    "answer1": "propranolol bilan zaharlanishda",
+    "answer2": "gemolitik sariqlikda",
+    "answer3": "giperkarotinemiyada",
+    "answer4": "alkogolli jigar sirrozida",
+    "correct_answer": "alkogolli jigar sirrozida"
+  },
+  {
+    "question": "Pankreatitning klinik belgilari quyidagilarni oʻz ichiga oladi:",
+    "answer1": "assit, qorin sohasidagi kuchli belbogʻsimon ogʻriq",
+    "answer2": "sariqlik, isitma, qorin sohasidagi kuchli belbogʻsimon ogʻriq",
+    "answer3": "isitma, assit, qorin sohasidagi kuchli belbogʻsimon ogʻriq",
+    "answer4": "diareya, qorin sohasidagi kuchli belbogʻsimon ogʻriq",
+    "correct_answer": "isitma, assit, qorin sohasidagi kuchli belbogʻsimon ogʻriq"
+  },
+  {
+    "question": "Bemorda och qorihga ogʻriqlar, jigʻildon qaynashi, qabziyat kuzatiladi. Unda epigastral sohada ogʻriq aniqlanadi. Birinchi navbatda qanday tekshiruv oʻtkazish kerak?",
+    "answer1": "oshqozon shirasi tahlili",
+    "answer2": "oshqozon-ichak trakti rentgenoskopiyasi",
+    "answer3": "EGDFS (ezofagogastroduodenofibroskopiya)",
+    "answer4": "Kolonoskopiya",
+    "correct_answer": "EGDFS (ezofagogastroduodenofibroskopiya)"
+  },
+  {
+    "question": "Jigar sirrozining klinik belgilariga kirmaydi:",
+    "answer1": "ishtaha yoʻqolishi, koʻngil aynishi, qusish",
+    "answer2": "qorin kattalashishi, assit",
+    "answer3": "gepatomegaliya, palpatsiyada ogʻriq",
+    "answer4": "qon tomir yulduzchalari, kaftlarning qizarishi",
+    "correct_answer": "gepatomegaliya, palpatsiyada ogʻriq"
+  },
+  {
+    "question": "Jigar sirrozining asoratlariga quyidagilar kirmaydi:",
+    "answer1": "portal gipertenziya",
+    "answer2": "ensefalopatiya",
+    "answer3": "jigar yetishmovchiligi",
+    "answer4": "oʻt kolikasi",
+    "correct_answer": "oʻt kolikasi"
+  },
+  {
+    "question": "Oʻt-tosh kasalligi huruji uchun quyidagilar xos:",
+    "answer1": "sariqlik, jigarning kattalashishi, palpatsiyada ogʻriq, kaftlarning qizarishi, assit",
+    "answer2": "obturatsion sariqlik, epigastral va bel sohasidagi ogʻriq, oʻt pufagi kattalashishi, holsizlik, charchoq",
+    "answer3": "isitma et uvishishi bilan, oʻng qovurgʻa ostidagi ogʻriq, sariqlik, assit, holsizlik, charchoq",
+    "answer4": "oʻng qovurgʻa ostida kuchli ogʻriq, sariqlik, isitma, jigar kattalashishi, koʻngil aynishi va qusish, oʻtkir respirator infeksiya belgilari",
+    "correct_answer": "obturatsion sariqlik, epigastral va bel sohasidagi ogʻriq, oʻt pufagi kattalashishi, holsizlik, charchoq"
+  },
+  {
+    "question": "Oʻtkir xoletsistit uchun quyidagi belgilar xos emas:",
+    "answer1": "oʻng qovurgʻa ostida ogʻriq",
+    "answer2": "koʻngil aynishi va safro bilan qusish",
+    "answer3": "yaqqol sariqlik",
+    "answer4": "ogʻriq xurujlari",
+    "correct_answer": "yaqqol sariqlik"
+  },
+  {
+    "question": "Asoratlanmagan 12 barmoqli ichak yara kasalligi bilan ogʻrigan bemorlarda quyidagilar boʻlishi mumkin:",
+    "answer1": "qon aralash axlat",
+    "answer2": "qon tupurish",
+    "answer3": "epigastriyda mahalliy ogʻriq",
+    "answer4": "Isitma",
+    "correct_answer": "epigastriyda mahalliy ogʻriq"
+  },
+  {
+    "question": "Jigar sirroziga nima mos keladi?",
+    "answer1": "gemorragik sindrom",
+    "answer2": "ich qotishi",
+    "answer3": "arterial gipotoniya",
+    "answer4": "oʻng qovurgʻa ostida kuchli ogʻriq",
+    "correct_answer": "gemorragik sindrom"
+  },
+  {
+    "question": "Sariqlikka nisbatan nima NOTOʻGʻRI:",
+    "answer1": "mexanik sariqlik uchun rangsiz axlat xos",
+    "answer2": "jigar usti sariqligida bogʻlangan bilirubin hisobiga giperbilirubinemiya boʻladi",
+    "answer3": "gemolitik sariqlikda siydikda bilirubinuriya qayd etiladi",
+    "answer4": "jigar sariqligida bogʻlanmagan bilirubinning konyugatsiya jarayoni buziladi",
+    "correct_answer": "gemolitik sariqlikda siydikda bilirubinuriya qayd etiladi"
+  },
+  {
+    "question": "Disfagiya uchraydigan kasallikni belgilang:",
+    "answer1": "oshqozon yarasi kasalligi",
+    "answer2": "ichak tutilishi",
+    "answer3": "tizimli sklerodermiya",
+    "answer4": "Appenditsit",
+    "correct_answer": "tizimli sklerodermiya"
+  },
+  {
+    "question": "Oshqozon yara kasalligi bilan ogʻrigan bemorlarni oʻqitishda toʻgʻri fikrlarni tanlang.",
+    "answer1": "aspirinni remissiya davrida qoʻllash mumkin",
+    "answer2": "kech soat 6 dan keyin ovqatlanmaslik",
+    "answer3": "antatsidlarni ovqatdan keyin qabul qilish",
+    "answer4": "axlat qora rangli boʻlsa zudlik bilan shifokorga murojaat qilish kerak",
+    "correct_answer": "axlat qora rangli boʻlsa zudlik bilan shifokorga murojaat qilish kerak"
+  },
+  {
+    "question": "Diareya chaqiruvchi vositalarni belgilang:",
+    "answer1": "antidepressantlar",
+    "answer2": "adrenomimetiklar",
+    "answer3": "Antibiotiklar",
+    "answer4": "tarkibida kalsiy boʻlgan antatsidlar",
+    "correct_answer": "Antibiotiklar"
+  },
+  {
+    "question": "Oʻn ikki barmoqli ichak yara kasalligiga xos boʻlmagan simptomlar qaysilar?",
+    "answer1": "zarda qaynashi",
+    "answer2": "epigastral sohada och qoringa ogʻriq",
+    "answer3": "qabziyat",
+    "answer4": "Ozish",
+    "correct_answer": "zarda qaynashi"
+  },
+  {
+    "question": "Oʻtkir xoletsistit uchun toʻgʻrisini tanlang:",
+    "answer1": "oʻtkir xoletsistit sifatsiz ovqatdan zaharlanishdan keyin qayd etiladi",
+    "answer2": "belga tarqaluvchi epigastral ogʻriq bilan kechadi",
+    "answer3": "75% holatlarda koʻngil aynishi va safro bilan qusish kuzatiladi",
+    "answer4": "oʻtkir xoletsistitni ochlik parhezi bilan davolash samarasiz va xavflidir",
+    "correct_answer": "75% holatlarda koʻngil aynishi va safro bilan qusish kuzatiladi"
+  },
+  {
+    "question": "Yuqori oʻng kvadrantda joylashgan qorin ogʻrigʻining sabablari:",
+    "answer1": "nospetsifik yarali kolit",
+    "answer2": "chov churrasi",
+    "answer3": "oʻtkir miokardit",
+    "answer4": "oʻng tomonlama pnevmoniya",
+    "correct_answer": "oʻng tomonlama pnevmoniya"
+  },
+  {
+    "question": "Pastki chap kvadrantda joylashgan qorin ogʻrigʻining sabablari:",
+    "answer1": "oʻtkir miokard infarkti",
+    "answer2": "dimlanishli gepatomegaliya",
+    "answer3": "oʻtkir gastrit",
+    "answer4": "ektopik homiladorlik",
+    "correct_answer": "ektopik homiladorlik"
+  },
+  {
+    "question": "20 yoshli qiz kindik atrofidagi sanchiqsimon ogʻriqdan shikoyat qiladi, u oʻng yonbosh sohasiga koʻchgan, unda isitma va ishtahaning yoʻqligi ham mavjud. Eng maqbul tashxis qaysi?",
+    "answer1": "Oʻtkir appenditsit",
+    "answer2": "Kron kasalligi",
+    "answer3": "Oʻtkir xoletsistit",
+    "answer4": "Nospetsifik yarali kolit",
+    "correct_answer": "Oʻtkir appenditsit"
+  },
+  {
+    "question": "18 yoshli qiz, epigastral sohada toʻsatdan orqaga irradiatsiyali kuchli ogʻriq bilan keldi. Rangpar, koʻngil aynishi, qusish, isitma kuzatiladi. Paypaslaganda epigastral sohada ogʻriq. Ichak shovqinlari susaygan. Eng maqbul tashxis qaysi?",
+    "answer1": "oʻtkir xoletsistit",
+    "answer2": "oʻtkir pankreatit",
+    "answer3": "oʻtkir virusli gepatit",
+    "answer4": "oʻtkir appenditsit",
+    "correct_answer": "oʻtkir appenditsit"
+  },
+  {
+    "question": "16 yoshli yigit, qon va shilliq aralash ich ketishiga shikoyat qiladi. Anamnezdan - ovqat tarkibida kletchatkaning kamligi. Qorin ogʻrigʻi oʻrtacha, yana isitma, holsizlik, ozish bor.",
+    "answer1": "Oʻtkir divertikulit",
+    "answer2": "Kron kasalligi",
+    "answer3": "Nospetsifik yarali kolit",
+    "answer4": "Taʼsirlangan ichak sindromi",
+    "correct_answer": "Nospetsifik yarali kolit"
+  },
+  {
+    "question": "Oshqozon yarasi kasalligida qon ketish asoratining toʻgʻri belgisini koʻrsating:",
+    "answer1": "tarqalgan xarakterdagi kuchli ogʻriq",
+    "answer2": "oshqozonning toʻlib ketishi va yaqinda yegan ovqatdan qusish",
+    "answer3": "\"qahva quyqasi\" qusish va melena",
+    "answer4": "dispepsiya, ozish",
+    "correct_answer": "\"qahva quyqasi\" qusish va melena"
+  },
+  {
+    "question": "Oshqozon yarasi kasalligining xavfli oʻsmaga aylanishining toʻgʻri belgisini koʻrsating:",
+    "answer1": "40 yoshdan oshgan, dispepsiya, ozish",
+    "answer2": "orqaga tarqaluvchi doimiy ogʻriq",
+    "answer3": "oshqozonning toʻlib ketish hissi va yaqinda yegan ovqatdan qusish",
+    "answer4": "\"qahva quyqasi\" va melena qusishi",
+    "correct_answer": "40 yoshdan oshgan, dispepsiya, ozish"
+  },
+  {
+    "question": "Birlamchi profilaktikaga taʼrif bering:",
+    "answer1": "kasallik sabablarini yoʻqotish, uning kelib chiqishini oldini olish va xavf omillarini chegaralashga qaratilgan chora-tadbirlar",
+    "answer2": "kasallikni erta davrlarida aniqlash, ularning sekinlashishiga yoʻnaltirilgan chora-tadbirlar",
+    "answer3": "kasallik zoʻrayishini oldini olishga va tibbiy tiklashga yoʻnaltirilgan choratadbirlar",
+    "answer4": "kasallikning patofiziologik mexanizmlariga taʼsir qilish chora-tadbirlar",
+    "correct_answer": "kasallik sabablarini yoʻqotish, uning kelib chiqishini oldini olish va xavf omillarini chegaralashga qaratilgan chora-tadbirlar"
+  },
+  {
+    "question": "Ichak tutilishi sabablari:",
+    "answer1": "taʼsirlangan ichak sindromi",
+    "answer2": "gijja invaziyasi",
+    "answer3": "jismoniy yuklama",
+    "answer4": "beta-blokatorlarning ortiqcha dozasi",
+    "correct_answer": "gijja invaziyasi"
+  },
+  {
+    "question": "Oʻtkir pankreatitda qorin ogʻrigʻi kuchayadi:",
+    "answer1": "chuqur nafas olganda",
+    "answer2": "harakat vaqtida",
+    "answer3": "chalqancha yotgan holatda",
+    "answer4": "yoʻtalda",
+    "correct_answer": "chalqancha yotgan holatda"
+  },
+  {
+    "question": "Oʻtkir appenditsitda qorin ogʻrigʻi kuchayadi:",
+    "answer1": "chuqur nafas olganda",
+    "answer2": "ovqatlanish paytida",
+    "answer3": "harakat vaqtida yoki yoʻtalganda",
+    "answer4": "spirtli ichimliklar ichish va/yoki koʻp miqdorda yogʻli ovqat isteʼmol Qilishda",
+    "correct_answer": "harakat vaqtida yoki yoʻtalganda"
+  },
+  {
+    "question": "Koʻkrak yoshidagi bolalarda ichak sanchigʻiga nisbatan quyidagilar toʻgʻri hisoblanadi:",
+    "answer1": "chaqaloqlik davrida paydo boʻladi",
+    "answer2": "1 haftagacha davom etadi",
+    "answer3": "xurujlar kunning ikkinchi yarmida paydo boʻladi",
+    "answer4": "koʻpincha kesarcha kesish bilan tugʻilgan bolalarda",
+    "correct_answer": "chaqaloqlik davrida paydo boʻladi"
+  },
+  {
+    "question": "Yoʻgʻon ichak poliplari boʻyicha operatsiya qilingan 45 yoshli erkak qorin ogʻrigʻi, koʻp marta qusish, ich ketishidan shikoyat qiladi. Obyektiv: bemor qoʻzgʻaluvchan, qorin simmetrik shishgan, ichak peristaltikasi koʻrinadi. Qorin auskultatsiyasida tomchi tovushi eshitiladi. Eng ehtimoliy tashxisni ayting:",
+    "answer1": "ichak tutilishi",
+    "answer2": "mezenterial tomirlar trombozi",
+    "answer3": "yoʻgʻon ichak saratoni",
+    "answer4": "Divertikulit",
+    "correct_answer": "ichak tutilishi"
+  },
+  {
+    "question": "Orttirilgan churraga moyillik tugʻdiruvchi omillar",
+    "answer1": "fitnes bilan shugʻullanish",
+    "answer2": "yoshlar",
+    "answer3": "Keksalar",
+    "answer4": "tanosil kasalliklari",
+    "correct_answer": "Keksalar"
+  },
+  {
+    "question": "Quyidagi fikrlardan qaysilari churraga nisbatan toʻgʻri hisoblanadi:",
+    "answer1": "churralar faqat orttirilgan boʻladi, son churrasi chov churrasiga nisbatan ancha koʻp uchraydi",
+    "answer2": "churralar tugʻma va orttirilgan boʻladi, son churrasi chov churrasiga nisbatan ancha koʻp uchraydi",
+    "answer3": "chov qiyshiq churralarining toʻgʻrilanmasligi churra darvozasining torligi tufayli yuzaga keladi",
+    "answer4": "son churralari koʻproq erkaklarda uchraydi",
+    "correct_answer": "chov qiyshiq churralarining toʻgʻrilanmasligi churra darvozasining torligi tufayli yuzaga keladi"
+  },
+  {
+    "question": "Qisilgan churra uchun quyidagilar xos:",
+    "answer1": "qorinda toʻlgʻoqsimon ogʻriq",
+    "answer2": "koʻngil aynishi va qusish",
+    "answer3": "ichak tutilishi",
+    "answer4": "barcha javoblar toʻgʻri",
+    "correct_answer": "barcha javoblar toʻgʻri"
+  },
+  {
+    "question": "Qaltirash, lokal ogriq, leykosituriya hos:",
+    "answer1": "oʼtkir glomerulonefritga",
+    "answer2": "amiloidozga",
+    "answer3": "oʼtkir pielonefritga",
+    "answer4": "surunkali glomerulonefritga",
+    "correct_answer": "oʼtkir pielonefritga"
+  },
+  {
+    "question": "40 yoshli ayol oʻng yonbosh sohasida toʻlgʻoqsimon ogʻriqqa shikoyat qiladi, bu ogʻriq defekatsiyadan keyin kamayadi, ovqatdan keyin paydo boʻladigan ich ketishi bor. Shuningdek, ayol charchash, ishtaha yoʻqolishi va koʻngil aynishini qayd etgan. Uni yaqinda ichi qotib, axlati qumaloqsimon boʻlib qolgani tashvishga soladi. Ehtimoliy tashxisingiz:",
+    "answer1": "oʻtkir appenditsit",
+    "answer2": "oʻtkir xoletsistit",
+    "answer3": "taʼsirlangan ichak sindromi",
+    "answer4": "yoʻgʻon ichak saratoni",
+    "correct_answer": "taʼsirlangan ichak sindromi"
+  },
+  {
+    "question": "Taʼsirlangan ichak sindromiga shubha qilinganda oilaviy shifokor taktikasi quyidagilarni oʻz ichiga oladi:",
+    "answer1": "yoʻgʻon ichak saratonini istisno qilish maqsadida kasalxonaga yotqizish",
+    "answer2": "kletchatkaga boy mahsulotlarni chiqarib tashlash",
+    "answer3": "ruhiy buzilishlarda - trisiklik antidepressantlar",
+    "answer4": "kreonni ovqatdan oldin qabul qilishni tavsiya etish",
+    "correct_answer": "ruhiy buzilishlarda - trisiklik antidepressantlar"
+  },
+  {
+    "question": "Qaysi dorilar Helicobacter Pyloriga nisbatan samarali:",
+    "answer1": "vismut ditsitrat",
+    "answer2": "metronidazol",
+    "answer3": "amoksitsillin",
+    "answer4": "barcha javoblar toʻgʻri",
+    "correct_answer": "barcha javoblar toʻgʻri"
+  }
+]

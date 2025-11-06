@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Fiziologik homiladorlik qancha davom etadi",
+    "answer1": "240 kun",
+    "answer2": "280 kun",
+    "answer3": "320 kun",
+    "answer4": "300 kun",
+    "correct_answer": "280 kun"
+  },
+  {
+    "question": "Qaysi paytdan tugʻruq boshlangan deb hisoblanadi",
+    "answer1": "Bachadon boʻynini toʻliq ochilgan paytidan",
+    "answer2": "Homila boshchasining chanoq kirish tekisligiga kelib taqalish paytidan",
+    "answer3": "Homilaning tugʻruq yoʻllari boʻylab harakatlanish paytidan",
+    "answer4": "Muntazam ravishda dard tutish paytidan",
+    "correct_answer": "Muntazam ravishda dard tutish paytidan"
+  },
+  {
+    "question": "Qayta tugʻuvchi ayollarda tugʻruq oʻrtacha qancha davom etadi",
+    "answer1": "5-8 soat",
+    "answer2": "9-12 soat",
+    "answer3": "6-8 soat",
+    "answer4": "15-18 soat",
+    "correct_answer": "6-8 soat"
+  },
+  {
+    "question": "Birinchi marta tugʻuvchi ayolda tugʻruq oʻrtacha qancha davom etadi",
+    "answer1": "6 soat",
+    "answer2": "20 soat",
+    "answer3": "12 -14 soat",
+    "answer4": "9-12 soat",
+    "correct_answer": "12 -14 soat"
+  },
+  {
+    "question": "Tugʻruqning 1 davrini tugallanganlik belgisini aniqlang",
+    "answer1": "Oldinda yotgan qismini pastga harakatlanishi",
+    "answer2": "Bachadon boʻynini toʻliq ochilishi",
+    "answer3": "Oldinda yotgan qismini yuqori turishi",
+    "answer4": "Qonli ajralmaning hosil boʻlishi",
+    "correct_answer": "Bachadon boʻynini toʻliq ochilishi"
+  },
+  {
+    "question": "Tugʻruq qachon tugaydi",
+    "answer1": "Homilani tugʻilishi bilan",
+    "answer2": "Bachadon boʻyni va oraliqni koʻrilgandan keyin",
+    "answer3": "homila va yoʻldosh tugʻilgandan keyin",
+    "answer4": "Bachadon boʻyni toʻliq ochilgandan keyin",
+    "correct_answer": "homila va yoʻldosh tugʻilgandan keyin"
+  },
+  {
+    "question": "Homila tugʻilgandan keyin bachadon tubi balandligi qayerda joylashadi",
+    "answer1": "Kindikdan 3 barmoq yuqorida",
+    "answer2": "Kindik bilan teng",
+    "answer3": "Kindikdan 2 barmoqpastda",
+    "answer4": "Kindikdan 1 barmoqpastda",
+    "correct_answer": "Kindik bilan teng"
+  },
+  {
+    "question": "Dardga tushuncha bering",
+    "answer1": "Bachadon muskullarining va qorin oldingi muskullarning qisqarishi",
+    "answer2": "Bachadon muskullarining vaqti-vaqti bilan qisqarishi",
+    "answer3": "Qorin oldingi muskullarning qisqarishi",
+    "answer4": "Bachadon muskullarining muntazam qisqarishi",
+    "correct_answer": "Bachadon muskullarining vaqti-vaqti bilan qisqarishi"
+  },
+  {
+    "question": "Kuchaniqqa tushuncha bering:",
+    "answer1": "Bachadon muskullarining va qorin oldingi muskullarning qisqarishi",
+    "answer2": "Bachadon muskullarining vaqti-vaqti bilan qisqarishi",
+    "answer3": "Qorin oldingi muskullarning qisqarishi",
+    "answer4": "Bachadon muskullarining muntazam qisqarishi",
+    "correct_answer": "Qorin oldingi muskullarning qisqarishi"
+  },
+  {
+    "question": "Qogʻonoq suvining oʻz vaqtida ketishi qachon kuzatiladi",
+    "answer1": "Bachadon boʻynini 6 sm ochilganda",
+    "answer2": "Homila tugʻilgandan soʻng",
+    "answer3": "Tugʻruqning 1- davrining boshida",
+    "answer4": "Bachadon boʻyni toʻliq yoki deyarli toʻliq ochilganda",
+    "correct_answer": "Bachadon boʻyni toʻliq yoki deyarli toʻliq ochilganda"
+  },
+  {
+    "question": "Qayta tugʻuvchi ayollarda tugʻruqning 2 davri qancha davom etadi",
+    "answer1": "30-60 daq",
+    "answer2": "20-30 daq",
+    "answer3": "10-20 daq",
+    "answer4": "1-2 soat",
+    "correct_answer": "20-30 daq"
+  },
+  {
+    "question": "Kontraksiya bu",
+    "answer1": "Bachadon muskul tolalarining qisqarishi",
+    "answer2": "Bachadon boʻyninig qisqarishi",
+    "answer3": "Bachadon boʻyninig ochilishi",
+    "answer4": "Qogʻonoq pardaning yorilishi",
+    "correct_answer": "Bachadon muskul tolalarining qisqarishi"
+  },
+  {
+    "question": "Retraksiya bu",
+    "answer1": "Bachadon boʻyninig qisqarishi",
+    "answer2": "Bachadon muskul tolalarining qisqarishi",
+    "answer3": "Bachadon boʻyninig kengayishi",
+    "answer4": "Qisqargan muskul tolalarining bir-biriga nisbatan siljishi",
+    "correct_answer": "Qisqargan muskul tolalarining bir-biriga nisbatan siljishi"
+  },
+  {
+    "question": "Distraksiya bu",
+    "answer1": "Qisqargan muskul tolalarining siljishi, chalkashishi",
+    "answer2": "Bachadon boʻyninig qisqarishi",
+    "answer3": "Dard tutishi sayin bachadon boʻyninig kengayishi",
+    "answer4": "Bachadon muskul tolalarining qisqarishi",
+    "correct_answer": "Dard tutishi sayin bachadon boʻyninig kengayishi"
+  },
+  {
+    "question": "Homila pufagi deb nimaga aytiladi",
+    "answer1": "Homilaning detsidual qobigʻi",
+    "answer2": "Homilaning amnion va xorion qobigʻi",
+    "answer3": "Homilaning xorion qobigʻi",
+    "answer4": "Yoʻldosh",
+    "correct_answer": "Homilaning amnion va xorion qobigʻi"
+  },
+  {
+    "question": "Tugʻruq habarchilari deb qanday belgilar tushuniladi",
+    "answer1": "Bachadon tubining pasayishi, “soxta dard”",
+    "answer2": "Qogʻonoq suvining ketishi",
+    "answer3": "Muntazam dard rivojlanishi",
+    "answer4": "Bachadon boʻynining tekislanishi",
+    "correct_answer": "Bachadon tubining pasayishi, “soxta dard”"
+  },
+  {
+    "question": "Kontraksion halqa nima",
+    "answer1": "Qisqargan muskul tolalarining siljishi, chalkashishi",
+    "answer2": "Dard tutishi sayin bachadon boʻyninig kengayishi",
+    "answer3": "Bachadon muskul tolalarining qisqarishi",
+    "answer4": "Bachadon tanasi muskuli bilan bachadonnig choʻzilayotgan pastki segmenti oʻrtasidagi chegara",
+    "correct_answer": "Bachadon tanasi muskuli bilan bachadonnig choʻzilayotgan pastki segmenti oʻrtasidagi chegara"
+  },
+  {
+    "question": "Bachadon boʻyni qachon toʻla ochilgan deb hisoblanadi",
+    "answer1": "7-8 sm",
+    "answer2": "3-5 sm",
+    "answer3": "10-12 sm",
+    "answer4": "14-16 sm",
+    "correct_answer": "10-12 sm"
+  },
+  {
+    "question": "Qogʻonoq suvining barvaqt ketishi bu",
+    "answer1": "Bachadon boʻyninig tashqi teshigi toʻliq ochilmasdan turib homila pufagining yorilishi",
+    "answer2": "Bachadon boʻyninig tashqi teshigi toʻliq ochilgandan soʻng homila pufagining yorilishi",
+    "answer3": "Tugʻruq boshlanmasdan turib suv ketishi",
+    "answer4": "Homila tugʻilgach suv ketishi",
+    "correct_answer": "Bachadon boʻyninig tashqi teshigi toʻliq ochilmasdan turib homila pufagining yorilishi"
+  },
+  {
+    "question": "Tugʻruq biomexanizmi deb nimaga aytiladi",
+    "answer1": "Bachadon boʻyninig qisqarishi",
+    "answer2": "Homilaning ona tugʻruq yoʻllaridan oʻtib borayotgan harakatlar yigʻindisi",
+    "answer3": "Homila pufagining yorilishi",
+    "answer4": "Yoʻldoshning tugʻilishi",
+    "correct_answer": "Homilaning ona tugʻruq yoʻllaridan oʻtib borayotgan harakatlar yigʻindisi"
+  },
+  {
+    "question": "Toʻlgʻoqlar orasidagi davr bu",
+    "answer1": "Kuchaniq",
+    "answer2": "Tugʻruq",
+    "answer3": "Pauza",
+    "answer4": "Bachadonning qisqarishi",
+    "correct_answer": "Pauza"
+  },
+  {
+    "question": "Tugʻruq jarayonida tugʻuvchi ayol qisman boshqara oladi",
+    "answer1": "Dardni",
+    "answer2": "Qogʻonoq suvlarining ketishini",
+    "answer3": "Kuchaniqni",
+    "answer4": "Yoldosh tushushini",
+    "correct_answer": "Kuchaniqni"
+  },
+  {
+    "question": "Birinchi marta tugʻuvchi ayolda 2 davr qancha davom etadi",
+    "answer1": "60-120daq",
+    "answer2": "80-90daq",
+    "answer3": "15-20 daq",
+    "answer4": "1-1.5soat",
+    "correct_answer": "60-120daq"
+  },
+  {
+    "question": "Homila boshining suqilib kirishi bu",
+    "answer1": "Homila boshi ancha oldinga surilishi",
+    "answer2": "Homila boshi oldinga koʻproq turtib chiqishi",
+    "answer3": "Homila boshi toʻlgʻoq toʻxaganda ham jinsiy yoriqdan yoʻqolmasligi",
+    "answer4": "Toʻlgʻoq tutgan vaqtda homila boshining jinsiy yoriqdan koʻrinishi",
+    "correct_answer": "Toʻlgʻoq tutgan vaqtda homila boshining jinsiy yoriqdan koʻrinishi"
+  },
+  {
+    "question": "Homila boshi yorib chiqshi bu",
+    "answer1": "Toʻlgʻoq tutgan vaqtda homila boshining jinsiy yoriqdan koʻrinishi",
+    "answer2": "Homila boshi toʻlgʻoq toʻxtagandan keyin ham koʻzdan yoʻqolmasligi",
+    "answer3": "Homila boshi oldinga koʻproq turtib chiqishi",
+    "answer4": "Homila boshi ancha oldinga surilishi",
+    "correct_answer": "Homila boshi toʻlgʻoq toʻxtagandan keyin ham koʻzdan yoʻqolmasligi"
+  },
+  {
+    "question": "Tugʻruqning 3 davri qancha davom etadi",
+    "answer1": "5-30 daq",
+    "answer2": "30 – 60 daq",
+    "answer3": "1 – 2 soat",
+    "answer4": "20 – 30 daq",
+    "correct_answer": "20 – 30 daq"
+  },
+  {
+    "question": "Homila boshchasi bilan oldinda joylashganda normal tugʻruqda homilaning dastlab qaysi qismi yorib chiqadi",
+    "answer1": "Peshona qisma",
+    "answer2": "Yuz qismi",
+    "answer3": "Ensa qismi",
+    "answer4": "Tepa qismi",
+    "correct_answer": "Ensa qismi"
+  },
+  {
+    "question": "Homilaning yelkalari tugʻruq yoʻllaridan quyidagicha chiqadi",
+    "answer1": "Orqa yelkasi oraliq ustida ushlanib qoladi, oldingi yelkasi simfiz ostidan tugʻiladi",
+    "answer2": "Ikkala yelka ham baravar tugʻiladi",
+    "answer3": "Oldingi yelkasi simfiz ostida ushlanib qoladi, orqadagi yelkasi oraliq ustidan sirgʻanib chaqadi",
+    "answer4": "Oldingi yelkasi birinchi tugʻiladi",
+    "correct_answer": "Oldingi yelkasi simfiz ostida ushlanib qoladi, orqadagi yelkasi oraliq ustidan sirgʻanib chaqadi"
+  },
+  {
+    "question": "I pozitsiyada homilaning yuzi onanig qaysi soniga qarab tugʻiladi",
+    "answer1": "Pastga qarab",
+    "answer2": "Onaning oʻng soniga",
+    "answer3": "Onanig chap soniga",
+    "answer4": "Tepaga qara",
+    "correct_answer": "Onaning oʻng soniga"
+  },
+  {
+    "question": "II pozitsiyada homilaning yuzi onanig qaysi soniga qarab tugʻiladi",
+    "answer1": "Pastga qarab",
+    "answer2": "Onaning oʻng soniga",
+    "answer3": "Onaning chap soniga",
+    "answer4": "Tepaga qara",
+    "correct_answer": "Onaning chap soniga"
+  },
+  {
+    "question": "Tugʻruqning I davri nima deb nomlanadi",
+    "answer1": "Qogʻonoq pardaning yorilishi",
+    "answer2": "Homila tugʻilishi",
+    "answer3": "Yoʻldosh tugʻilishi",
+    "answer4": "Bachadon boʻyninig ochilishi",
+    "correct_answer": "Bachadon boʻyninig ochilishi"
+  },
+  {
+    "question": "Tugʻruqning II davri nima deb nomlanadi",
+    "answer1": "Qogʻonoq pardaning yorilishi",
+    "answer2": "Homila tugʻilishi",
+    "answer3": "Yoʻldosh tugʻilishi",
+    "answer4": "Bachadon boʻyninig ochilishi",
+    "correct_answer": "Homila tugʻilishi"
+  },
+  {
+    "question": "Tugʻruqning III davri nima deb nomlanadi",
+    "answer1": "Qogʻonoq pardoning yorilishi",
+    "answer2": "Homila tugʻilishi",
+    "answer3": "yoʻldosh tugʻilishi",
+    "answer4": "Bachadon boʻyninig ochilishi",
+    "correct_answer": "yoʻldosh tugʻilishi"
+  },
+  {
+    "question": "Yoʻldoshning tushishi bu",
+    "answer1": "Kindik tizimchasining ichkariga tortilishi",
+    "answer2": "Qogʻonoq suvlarining ketishi",
+    "answer3": "Bachadondan qon ketishi",
+    "answer4": "Plasenta va pardalar bachadon devoridan koʻchishi va tugʻilishi",
+    "correct_answer": "Plasenta va pardalar bachadon devoridan koʻchishi va tugʻilishi"
+  },
+  {
+    "question": "Yoʻldoshning koʻchishiga nima yordam beradi",
+    "answer1": "Dard tutishi",
+    "answer2": "Akusherlik yordami",
+    "answer3": "Kindik tizimchasining tortilishi",
+    "answer4": "Qogʻonoq suvlarining ketishi",
+    "correct_answer": "Dard tutishi"
+  },
+  {
+    "question": "Yoldoshning koʻchish turlari",
+    "answer1": "Yon tarafidan",
+    "answer2": "Markazdan va chetidan",
+    "answer3": "Tepa qismidan",
+    "answer4": "Pastki qismidan",
+    "correct_answer": "Markazdan va chetidan"
+  },
+  {
+    "question": "Yoʻldosh tuʼgilishi davrida normada qancha qon yoʻqotiladi",
+    "answer1": "500 – 600 ml",
+    "answer2": "50 – 100 ml",
+    "answer3": "100 – 200 ml",
+    "answer4": "250 – 300 ml",
+    "correct_answer": "250 – 300 ml"
+  },
+  {
+    "question": "Plasentar gematoma bu",
+    "answer1": "Yoʻldoshning tepa qismidan koʻchishida plasenta orqasida toʻplangan qon",
+    "answer2": "Yoʻldoshning past qismidan koʻchishida plasenta orqasida toʻplangan qon",
+    "answer3": "Yoʻldoshning markazdan koʻchishida plasenta orqasida toʻplangan qon",
+    "answer4": "Yoʻldoshning chetidan koʻchishida plasenta orqasida toʻplangan qon",
+    "correct_answer": "Yoʻldoshning markazdan koʻchishida plasenta orqasida toʻplangan qon"
+  },
+  {
+    "question": "Yoʻldosh koʻchgandan keyin nima sababli qon toʻxtaydi",
+    "answer1": "Bachadon atoniyasi",
+    "answer2": "Bachadonning qisqargan muskul tolalari ochilgan tomirlar teshigini qisib qoʻyadi",
+    "answer3": "Bachadon gipotoniyasi",
+    "answer4": "Akusherlik yordami tufayli",
+    "correct_answer": "Bachadonning qisqargan muskul tolalari ochilgan tomirlar teshigini qisib qoʻyadi"
+  },
+  {
+    "question": "Plasenta qanday vazifalarini bajaradi",
+    "answer1": "Modda almashinuvi",
+    "answer2": "Ayirish",
+    "answer3": "Nafas, oziqlanish, himoya",
+    "answer4": "Gemopoez",
+    "correct_answer": "Nafas, oziqlanish, himoya"
+  },
+  {
+    "question": "Qogʻonoq suvlari homiladorlik oxirida qancha miqdorni tashkil qiladi",
+    "answer1": "1 -1,5 l",
+    "answer2": "3 l",
+    "answer3": "0,5 – 1 l",
+    "answer4": "1 l",
+    "correct_answer": "1 -1,5 l"
+  },
+  {
+    "question": "Plasentaning nechta yuzasi bor",
+    "answer1": "4",
+    "answer2": "2",
+    "answer3": "3",
+    "answer4": "5",
+    "correct_answer": "2"
+  },
+  {
+    "question": "Plasenta homiladorlikning nechanchi haftasida toʻliq shakllangan boʻladi",
+    "answer1": "8 haftagacha",
+    "answer2": "6 haftagacha",
+    "answer3": "20 haftagacha",
+    "answer4": "16 haftagacha",
+    "correct_answer": "16 haftagacha"
+  },
+  {
+    "question": "Hamkorlikdagi tugʻruq deganda nimani tushunasiz",
+    "answer1": "Tibbiy hodimlarning ishtiroki",
+    "answer2": "Tibbiy hodim tanlovi asosida",
+    "answer3": "Tugʻuvchi ayolning oʻz xohishi bilan hamkorini tanlash",
+    "answer4": "Oila aʼzolarining tanlovi asosida",
+    "correct_answer": "Tugʻuvchi ayolning oʻz xohishi bilan hamkorini tanlash"
+  },
+  {
+    "question": "Partogramma nima",
+    "answer1": "Tugʻruq jarayonini grafik holda aks ettirish",
+    "answer2": "Tugʻruq rejasini tuzish",
+    "answer3": "Nazorat varaqasini toʻldirish",
+    "answer4": "Chaqaloq rivojlanishining nazorati",
+    "correct_answer": "Tugʻruq jarayonini grafik holda aks ettirish"
+  },
+  {
+    "question": "Partogramma qachon toʻlgʻiziladi",
+    "answer1": "Tugʻruqdan keyin toʻlgʻaziladi",
+    "answer2": "Tugʻruqdan oldin toʻlgʻaziladi",
+    "answer3": "Tugʻruq jarayonida toʻlgʻaziladi",
+    "answer4": "Tugʻruqning II davrida toʻlgʻaziladi",
+    "correct_answer": "Tugʻruq jarayonida toʻlgʻaziladi"
+  },
+  {
+    "question": "Tugʻruq oldi dekret taʼtili homiladorlikning qaysi haftasidan boshlab necha kunga beriladi",
+    "answer1": "28 haftalikdan 84 kunga",
+    "answer2": "30 haftalikdan 70 kunga",
+    "answer3": "32 haftalikdan 56 kunga",
+    "answer4": "34 haftalikdan 42 kunga",
+    "correct_answer": "30 haftalikdan 70 kunga"
+  },
+  {
+    "question": "Homila boshi chanoqning chiqish tekisligida ekanligini qanday aniqlanadi",
+    "answer1": "Homila boshi oʻq-yoysimon choki bilan chanoq kirish tekisligining koʻndalang oʻlchamiga mos kelsa",
+    "answer2": "Oʻq-yoysimon chok chanoq kirish tekisligining toʻgʻri oʻlchamiga mos kelsa",
+    "answer3": "Oʻq-yoysimon chok chanoq chiqish tekisligining toʻgri oʻlchamida boʻlsa",
+    "answer4": "Oʻq-yoysimon chok chanoq boʻshligʻining qiyshiq oʻlchamida boʻlsa",
+    "correct_answer": "Oʻq-yoysimon chok chanoq chiqish tekisligining toʻgri oʻlchamida boʻlsa"
+  },
+  {
+    "question": "Normal tugʻruq biomehanizimida homilaning boshi qaysi oʻlcham bilan yorib chiqadi",
+    "answer1": "Katta qiyshiq oʻlchami bilan",
+    "answer2": "Kichik qiyshiq oʻlchami bilan",
+    "answer3": "Toʻgʻri oʻlchami bilan",
+    "answer4": "Vertikal oʻlchami bilan",
+    "correct_answer": "Kichik qiyshiq oʻlchami bilan"
+  },
+  {
+    "question": "Normal tugʻruq biomexanizmida homilaning dastlab qaysi qismi yorib chiqadi",
+    "answer1": "Ensa qismi",
+    "answer2": "Peshona qismi",
+    "answer3": "Tepa domboqlari",
+    "answer4": "Yuz qismi",
+    "correct_answer": "Ensa qismi"
+  }
+]

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Тест тизими</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Boshlanish oynasi -->
+  <div class="card" id="start-screen">
+   <h2>
+  🔰 
+  <a href="https://t.me/MODULTEST" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
+    АДМИН - @MODULTEST
+  </a>
+  <br><br>
+  ♻️ ТЕСТ ТУРИНИ ТАНЛАНГ ВА ПАСТДАН ТЕСТНИ БОШЛАШ ТУГМАСИНИ БОСИНГ.
+</h2>
+
+    <button class="test-btn" data-json="uash1modul.json">ГИБРИД ТЕСТ УАШ 1-МОДУЛ</button>
+    <button class="test-btn" data-json="uash2modul.json">ГИБРИД ТЕСТ УАШ 2-МОДУЛ</button>
+    <button class="test-btn" data-json="test3.json">ГИБРИД ТЕСТ УАШ 3-МОДУЛ</button>
+    <button class="test-btn" data-json="test4.json">ГИБРИД ТЕСТ УАШ 4-МОДУЛ</button>
+    <button class="test-btn" data-json="gibrithamshira1modul.json">ГИБРИД ТЕСТ ХАМШИРА 1-МОДУЛ</button>
+    <button class="test-btn" data-json="gibrithamshira2modul.json">ГИБРИД ТЕСТ ХАМШИРА 2-МОДУЛ</button>
+    <button class="test-btn" data-json="test6.json">ГИБРИД ТЕСТ ХАМШИРА 3-МОДУЛ</button>
+    <button class="test-btn" data-json="test6.json">ГИБРИД ТЕСТ ХАМШИРА 4-МОДУЛ</button>
+
+    <button class="test-btn" data-json="argos-akt1-dmed.json">АРГОС АКТ-ДМЕД 1</button>
+    <button class="test-btn" data-json="argos-akt2-dmed.json">АРГОС АКТ-ДМЕД 1</button>
+
+
+    <button class="test-btn" data-json="argosUASH.json">АРГОС УАШ</button>
+    <button class="test-btn" data-json="argoshamshiralik.json">АРГОС ХАМШИРАЛИК ИШИ</button>
+    <button class="test-btn" data-json="argosPatronajhamshira.json">АРГОС ПАТРАНАЖ ХАМШИРА</button>
+    <button class="test-btn" data-json="argosAkusher.json">АРГОС AКУШЕРЛИК ИШИ</button>
+
+    <button id="start-btn">Тестни бошлаш</button>
+  </div>
+
+  <!-- Test oynasi -->
+  <div class="card hidden" id="quiz-container">
+    <button id="back-btn">← Орқага</button>
+    <div class="top-bar">
+      <div class="timer"><span id="time">60</span> сония</div>
+    </div>
+
+    <h2 id="question-text"></h2>
+    <div id="answers"></div>
+
+    <div class="bottom-fixed">
+      <button id="next-btn" class="hidden">Кейинги</button>
+      <div id="question-count"></div>
+    </div>
+  </div>
+
+<!-- MODAL OYNASI -->
+<div id="info-modal" class="modal hidden">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <p>
+      🧠 3 ва 4 МОДУЛ ҳақида маълумот олиш учун<br>
+      👉 <strong><a href="https://t.me/endocrinesti" target="_blank">@endocrinesti</a></strong> га ёзинг.
+    </p>
+  </div>
+</div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

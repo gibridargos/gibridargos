@@ -1,0 +1,160 @@
+[
+  {
+    "question": "DMED tizimida avtorizatsiya qanday amalga oshiriladi?",
+    "answer1": "Login va parol orqali",
+    "answer2": "JSHSHIR va himoya kodi orqali",
+    "answer3": "Telefon raqami orqali",
+    "answer4": "Elektron pochta orqali",
+    "correct_answer": "JSHSHIR va himoya kodi orqali"
+  },
+  {
+    "question": "DMED tizimini joriy etishning asosiy vazifalari qanday?",
+    "answer1": "Elektron tibbiy hujjatlarni joriy etish",
+    "answer2": "Muassasa byudjetini nazorat qilish",
+    "answer3": "Dori vositalarini hisobga olish",
+    "answer4": "Barcha javoblar to'g'ri",
+    "correct_answer": "Barcha javoblar to'g'ri"
+  },
+  {
+    "question": "DMED qo'llab-quvvatlash xizmati bilan qanday usullar orqali bog'lanish mumkin?",
+    "answer1": "Telefon raqami va tizimdagi chat orqali",
+    "answer2": "Telefon raqami va Telegram bot orqali",
+    "answer3": "Telefon raqami, Telegram bot va chat orqali",
+    "answer4": "DMED tizimida qo'llab-quvvatlash xizmati yo'q",
+    "correct_answer": "Telefon raqami, Telegram bot va chat orqali"
+  },
+  {
+    "question": "Bemor qaysi mobil ilova orqali shifokorga yozilishi mumkin?",
+    "answer1": "DMED PRO",
+    "answer2": "DMED",
+    "answer3": "DMED MONITOR",
+    "answer4": "MUXLISA",
+    "correct_answer": "DMED"
+  },
+  {
+    "question": "DMED tizimida bemorning yagona identifikatori (Med ID) qanday beriladi?",
+    "answer1": "Bemor o'zi uchun Med ID tanlaydi",
+    "answer2": "Shifokor bemorga Med ID beradi",
+    "answer3": "Med ID tizim tomonidan avtomatik ravishda beriladi",
+    "answer4": "Tizimda Med ID yo'q",
+    "correct_answer": "Med ID tizim tomonidan avtomatik ravishda beriladi"
+  },
+  {
+    "question": "Bemor o'zini poliklinikaga mustaqil ravishda biriktirishi mumkinmi?",
+    "answer1": "Ha, mobil ilova yoki MyGov orqali",
+    "answer2": "Yo'q, faqat shifokor biriktira oladi",
+    "correct_answer": "Ha, mobil ilova yoki MyGov orqali"
+  },
+  {
+    "question": "DMED tizimida rasmiy hujjat aylanishi reestri sifatida qaysi internet-manba ishlatiladi?",
+    "answer1": "docs.dmed.uz",
+    "answer2": "dmed.uz.docs",
+    "answer3": "documents.dmed.uz",
+    "answer4": "DMED tizimida hujjat aylanishi reestri yo'q",
+    "correct_answer": "docs.dmed.uz"
+  },
+  {
+    "question": "DMED tizimida qanday maxfiylik turi mavjud?",
+    "answer1": "Shifokor darajasidagi maxfiylik",
+    "answer2": "Muassasa darajasidagi maxfiylik",
+    "answer3": "Tuman darajasidagi maxfiylik",
+    "answer4": "Tizimda maxfiylik yo'q",
+    "correct_answer": "Shifokor darajasidagi maxfiylik"
+  },
+  {
+    "question": "Bemor 1-marta DTMga murojaat qilganda qabulga yozish qanday amalga oshiriladi?",
+    "answer1": "Pasport ma'lumotlari/tug'ilganlik haqidagi guvohnoma bo'yicha",
+    "answer2": "Bemorning FISH/Med ID bo'yicha",
+    "answer3": "Med ID bo'yicha",
+    "answer4": "MyID bo'yicha",
+    "correct_answer": "Pasport ma'lumotlari/tug'ilganlik haqidagi guvohnoma bo'yicha"
+  },
+  {
+    "question": "Bemorni qayta qabulga yozish uchun qanday ma'lumotlar zarur?",
+    "answer1": "Med ID/MyID",
+    "answer2": "Med ID/tug'ilganlik haqidagi guvohnoma/pasport",
+    "answer3": "MyID/Med ID/bemorning FISH",
+    "answer4": "Pasport/tug'ilganlik haqidagi guvohnoma",
+    "correct_answer": "MyID/Med ID/bemorning FISH"
+  },
+  {
+    "question": "Quyidagi qurilmalarning qaysi biri yordamida Internetga ulanish mumkin?",
+    "answer1": "Modem, router, Wi-Fi adapter",
+    "answer2": "Modem, router, smartfon, kompyuter",
+    "answer3": "Modem, router, Wi-Fi adapter, smartfon, kompyuter",
+    "answer4": "Modem, router, mobil modem, Wi-Fi adapter",
+    "correct_answer": "Modem, router, mobil modem, Wi-Fi adapter"
+  },
+  {
+    "question": "Kursorni harakatlantirish uchun qaysi qurilma ishlatiladi?",
+    "answer1": "Sichqoncha (mouse)",
+    "answer2": "Klavyatura",
+    "answer3": "Mikrofon",
+    "answer4": "Skanner",
+    "correct_answer": "Sichqoncha (mouse)"
+  },
+  {
+    "question": "Skanner nima?",
+    "answer1": "Qog‘oz hujjat yoki suratni raqamli formatga aylantiruvchi qurilma",
+    "answer2": "Video chiqishni monitorga uzatuvchu qurilma",
+    "answer3": "Grafik protsessor turi",
+    "answer4": "Ma’lumotlarni doimiy saqlash uchun ishlatiladi",
+    "correct_answer": "Qog‘oz hujjat yoki suratni raqamli formatga aylantiruvchi qurilma"
+  },
+  {
+    "question": "Printer qaysi turga kiradi?",
+    "answer1": "Kirish qurilmasi",
+    "answer2": "Chiqish qurilmasi",
+    "answer3": "Xotira qurilmasi",
+    "answer4": "Tarmoq qurilmasi",
+    "correct_answer": "Chiqish qurilmasi"
+  },
+  {
+    "question": "Modem vazifasi nima?",
+    "answer1": "Operatsion tizimni ishga tushurish",
+    "answer2": "Grafik ma’lumotlarni qayta ishlash",
+    "answer3": "Ma’lumotlarni doimiy saqlash",
+    "answer4": "Raqamli signalni analogga aylantirib internetga ulanishni ta’minlaydi",
+    "correct_answer": "Raqamli signalni analogga aylantirib internetga ulanishni ta’minlaydi"
+  },
+  {
+    "question": "Operatsion tizimning asosiy vazifalaridan biri nima?",
+    "answer1": "Resurslarni (CPU, xotira, disk, tarmoq) boshqarish",
+    "answer2": "Kompyuterni o’chirish",
+    "answer3": "Faqat xotirani boshqarish",
+    "answer4": "Faqat grafik interfeysni ko’rsatish",
+    "correct_answer": "Resurslarni (CPU, xotira, disk, tarmoq) boshqarish"
+  },
+  {
+    "question": "Operatsion tizimlar turlariga misol keltiring",
+    "answer1": "Desktop (Windows, Linux, MacOS), Mobil (Android/iOS)",
+    "answer2": "Chrome, opera, linux",
+    "answer3": "Mozilla firefox, desktop, microsoft edge",
+    "answer4": "Android, yandex, korzinka",
+    "correct_answer": "Desktop (Windows, Linux, MacOS), Mobil (Android/iOS)"
+  },
+  {
+    "question": "Microsoft Word dasturi nima uchun ishlatiladi?",
+    "answer1": "Animatsiya qilish",
+    "answer2": "Kod yozish",
+    "answer3": "Matnli hujjatlar yaratish va tahrirlash",
+    "answer4": "Video tahrirlash",
+    "correct_answer": "Matnli hujjatlar yaratish va tahrirlash"
+  },
+  {
+    "question": "Wordda fayl kengaytmasi qanday?",
+    "answer1": ".html",
+    "answer2": ".doc va .docx",
+    "answer3": ".ppt va .pptx",
+    "answer4": ".xls va .xlsx",
+    "correct_answer": ".doc va .docx"
+  },
+  {
+    "question": "Word dasturida yangi hujjat qanday yaratiladi?",
+    "answer1": "File → New menyusidan",
+    "answer2": "insert → new page",
+    "answer3": "format → start",
+    "answer4": "edit → create",
+    "correct_answer": "File → New menyusidan"
+  }
+]

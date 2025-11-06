@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Patronaj xizmati tushunchasiga berilgan to’g’ri ta’rif ko’rsatilgan javobni aniqlang:",
+    "answer1": "umumiy amaliyot shifokorlari tomonidan olib boriladigan ilk yoshdagi bolalarda, tug’ruqqgacha va tuqruqdan keyingi davrdagi ayollarga, “xonadonga tashriflarni tashkil qilish va bajarishni anglatadi”",
+    "answer2": "patronaj hamshiralari tomonidan olib boriladigan ilk yoshdagi bolalarda, tug’ruqgacha va tuqruqdan keyingi davrdagi ayollarga, “xonadonga tashriflarni tashkil qilish va bajarishni anglatadi”",
+    "answer3": "patronaj va oila hamshiralarining umumiy faoliyatlarning jamlanmasini anglatadi",
+    "answer4": "bo’lim va muolaja hamshiralari tomonidan olib boriladigan ilk yoshdagi bolalarda, tug’ruqgacha va tuqruqdan keyingi davrdagi ayollarga, “xonadonga tashriflarni tashkil qilish va bajarishni anglatadi”",
+    "correct_answer": "patronaj hamshiralari tomonidan olib boriladigan ilk yoshdagi bolalarda, tug’ruqgacha va tuqruqdan keyingi davrdagi ayollarga, “xonadonga tashriflarni tashkil qilish va bajarishni anglatadi”"
+  },
+  {
+    "question": "Universal-progressiv modelning asosiy maqsadi bu:",
+    "answer1": "ota-onalar va ularning yaqinlari farovonligi bilan bog’liq ravishda bolalarning salomatligi va farovonligini himoya qilish hamda rivojlantirishdir",
+    "answer2": "ota-onalarning oilaviy farovonligini himoya qilish hamda rivojlantirish",
+    "answer3": "mahalladagi har bir oilaning aqliy salohiyatini oshrish va rivojlantirish",
+    "answer4": "mahalla aholisining jismoniy salomatligi va farovonligini himoya qilish hamda rivojlantirishdir",
+    "correct_answer": "ota-onalar va ularning yaqinlari farovonligi bilan bog’liq ravishda bolalarning salomatligi va farovonligini himoya qilish hamda rivojlantirishdir"
+  },
+  {
+    "question": "Patronaj hamshiralarning faoliyatini tashkillashtirishda ishning amarasini oshirish uchun ularni qanday materiallar to’plami bilan ta’minlash zarur:",
+    "answer1": "noutbuk, printer, qo’l tarozi, santimetrli lenta, 2 turdagi - tana va xona haroratini o’lchash uchun termometr, tonometr, qo’lni dezifektsiya qilish uchun vosita, birinchi yordam ko’rsatish uchun dorilar to’plami, uslubiy ko’rsatmalar, eslatmalar bilan ta’minlanishi kerak",
+    "answer2": "qo’l tarozi, santimetrli lenta, tonometr, qo’lni dezifektsiya qilish uchun vosita, birinchi yordam ko’rsatish uchun dorilar to’plami, planshet, internet yoki Wi-Fi",
+    "answer3": "bo’y o’lchagich, qo’l tarozi, santimetrli lenta, 2 turdagi - tana va xona haroratini o’lchash uchun termometr, tonometr, qo’lni dezifektsiya qilish uchun vosita, birinchi yordam ko’rsatish uchun dorilar to’plami, uslubiy ko’rsatmalar, eslatmalar bilan ta’minlanishi zarur",
+    "answer4": "qo’l tarozi, santimetrli lenta, haroratini o’lchash uchun termometr, tonometr, qo’lni dezifektsiya qilish uchun xlor, dorilar to’plami, uslubiy ko’rsatmalar, eskizlar bilan ta’minlanishi zarur",
+    "correct_answer": "bo’y o’lchagich, qo’l tarozi, santimetrli lenta, 2 turdagi - tana va xona haroratini o’lchash uchun termometr, tonometr, qo’lni dezifektsiya qilish uchun vosita, birinchi yordam ko’rsatish uchun dorilar to’plami, uslubiy ko’rsatmalar, eslatmalar bilan ta’minlanishi zarur"
+  },
+  {
+    "question": "Kasalliklar va ularning rivojlanish xavf omillarini aniqlash salomatlik guruhlariga tasniflash bemorlarga tavsiyalar berish maqsadida o’tkaziladigan tibbiy ko’rik majmuasi bu:",
+    "answer1": "maqsadli tibbiy ko’rik",
+    "answer2": "chuqurlashtirilgan tibbiy ko’rik",
+    "answer3": "profilaktik tibbiy ko’rik",
+    "answer4": "navbatdagi tibbiy-profilaktik ko’rik",
+    "correct_answer": "profilaktik tibbiy ko’rik"
+  },
+  {
+    "question": "Amaliyot hamshirasi poliklinikaning qaysi xonasida ish faoliyatini yuritib, kimlarni boshqaradi:",
+    "answer1": "amaliyot hamshirasi shifokor oldi koʼrik xonasida faoliyat yuritib, brigadada faoliyat yuritayotgan patronaj hamshiralar va doyaning ish faoliyatini boshqaradi",
+    "answer2": "amaliyot hamshirasi akusher - ginekolog xonasida faoliyat yuritib, bo’limdagi hamma hamshiralarni boshqaradi",
+    "answer3": "amaliyot hamshirasi muolaja xonasida faoliyat yuritib, brigadada faoliyat yuritayotgan hamshiralar faoliyatini boshqaradi",
+    "answer4": "amaliyot hamshirasi shifokor oldi koʼrik xonasida faoliyat yuritib, akushher-ginekolog faoliyatini boshqaradi",
+    "correct_answer": "amaliyot hamshirasi shifokor oldi koʼrik xonasida faoliyat yuritib, brigadada faoliyat yuritayotgan patronaj hamshiralar va doyaning ish faoliyatini boshqaradi"
+  },
+  {
+    "question": "“Shifokor koʼrik oldi” xonasida hamshiraning bajaradigan ish faoliyati boʼyicha standartning maqsadi nima:",
+    "answer1": "shifokorlarga tushadigan yuklamani yengillashtirish",
+    "answer2": "shifokor qabuliga boʼladigan sababsiz navbatlarni kamaytirish, davolash, navbatlarni tartibga solish",
+    "answer3": "murojaat qilgan bemorning koʼrigini ta’minlash, davolash, yo’llanma berish, tor mutaxassis ko’rigiga yo’naltirish, MRT, MSKT, UTT, rentgen tekshiruvlaridan o’tkazish",
+    "answer4": "murojaat qilgan bemorning birlamchi koʼrigi va aholini tibbiy-profilaktik koʼrik va skriningdan oʼtkazish, shifokor qabuliga boʼladigan sababsiz navbatlarni kamaytirish, shifokorlarni vaqtini tejash va bemorlarga malakali tibbiy yordam berishga sharoit yaratish, yaʼni mehnat samaradorligini oshirish",
+    "correct_answer": "murojaat qilgan bemorning birlamchi koʼrigi va aholini tibbiy-profilaktik koʼrik va skriningdan oʼtkazish, shifokor qabuliga boʼladigan sababsiz navbatlarni kamaytirish, shifokorlarni vaqtini tejash va bemorlarga malakali tibbiy yordam berishga sharoit yaratish, yaʼni mehnat samaradorligini oshirish"
+  },
+  {
+    "question": "OIV qoʼzgʼatuvchisini aniqlang:",
+    "answer1": "pilovirus",
+    "answer2": "bakteriya",
+    "answer3": "DNK saqlovchi virus",
+    "answer4": "retrovirus",
+    "correct_answer": "retrovirus"
+  },
+  {
+    "question": "OIV virusi muzlatilgan zardobda qancha vaqtgacha saqlanadi",
+    "answer1": "5 yilgacha",
+    "answer2": "8 yilgacha",
+    "answer3": "20 yilgacha",
+    "answer4": "10 yilgacha",
+    "correct_answer": "20 yilgacha"
+  },
+  {
+    "question": "Tarkibida OIV saqlanadigan potentsial xavfli biologik suyuqliklarni belgilang:",
+    "answer1": "qon, ona suti, koʼz yoshi, shaxvat, ter, siydik",
+    "answer2": "qon, shaxvat, qin suyuqligi, amniotik suyuqlik, ona suti, sinovial suyuqlik",
+    "answer3": "qusuq, soʼlak, najas, yiring, me’da va o’n ikki bamoqli ichak suyuqligi",
+    "answer4": "koʼz yoshi, yiring, oshqozon shirasi, o’t suyuqligi",
+    "correct_answer": "qon, shaxvat, qin suyuqligi, amniotik suyuqlik, ona suti, sinovial suyuqlik"
+  },
+  {
+    "question": "OIV infektsiyasining yuqish mexanizmini aniqlang:",
+    "answer1": "jinsiy, transmessiv, havo tomchi",
+    "answer2": "parenteral, vertikal, gorizontal",
+    "answer3": "jinsiy, parenteral, vertical",
+    "answer4": "hashoratlar chaqqanda, iflos qoʼllar orqali, kontakt yo’l bilan",
+    "correct_answer": "jinsiy, parenteral, vertical"
+  },
+  {
+    "question": "OIV infektsiyasi bu qanday kasallik:",
+    "answer1": "belgisiz tashib yuruvchilikdan tortib immun tizimni zararlanishiga olib keladi va vaqti – vaqti bilan ARVT bilan davolanib turuvchi kasallik",
+    "answer2": "belgilarsiz tashib yuruvchilikdan tortib immun tizimni zararlaydi va o’xshash hisoblanadi",
+    "answer3": "belgisiz tashib yuruvchilikdan tortib, immun tizimni zararlanishini rivojlantiradi, muqarrar oʼlimga olib boruvchi kasallik",
+    "answer4": "oʼtkir yuqumli kasallik va shiddatli ravishda oʼlim bilan yakunlanishi mukin",
+    "correct_answer": "belgisiz tashib yuruvchilikdan tortib, immun tizimni zararlanishini rivojlantiradi, muqarrar oʼlimga olib boruvchi kasallik"
+  },
+  {
+    "question": "Bemorning holatini patronaj hamshirasi qanday baholaydi:",
+    "answer1": "aktiv, passiv, majburiy",
+    "answer2": "yaxshi, yomon",
+    "answer3": "passiv, majburiy",
+    "answer4": "aktiv, passiv",
+    "correct_answer": "aktiv, passiv, majburiy"
+  },
+  {
+    "question": "Patronaj hamshirasining vazifasi nima:",
+    "answer1": "Aholini sog’lomlashtirish",
+    "answer2": "Aholiga ijtimoiy yordam berish",
+    "answer3": "Emlash ishlarini olib boorish",
+    "answer4": "Poliklinikada ish faoliyatini olib boorish",
+    "correct_answer": "Aholini sog’lomlashtirish"
+  },
+  {
+    "question": "Bemorning kasalligi tufayli o’z-o’ziga ta’sir etishi qanday ataladi:",
+    "answer1": "egrotogeniya",
+    "answer2": "yatrogeniya",
+    "answer3": "gospitalizm",
+    "answer4": "egogeniya",
+    "correct_answer": "egogeniya"
+  },
+  {
+    "question": "Uy sharoitidagi hamshiralik parvarishini o’tkazishda bemor uchun qanday bosim qisqaradi:",
+    "answer1": "iqtisodiy",
+    "answer2": "ijtimoiy",
+    "answer3": "ruhiy",
+    "answer4": "ma’naviy",
+    "correct_answer": "ruhiy"
+  },
+  {
+    "question": "Sanitariya-oqartuv ishlaridan ko’zlangan maqsadni ko’rsating:",
+    "answer1": "mahallalarda salomatlik maktablarini yaratish",
+    "answer2": "turmush tarzini sog’lomlashtirish",
+    "answer3": "aholi orasida tibbiy saviyani oshirish",
+    "answer4": "sog’lom turmush tarzini targ’ib qilish",
+    "correct_answer": "sog’lom turmush tarzini targ’ib qilish"
+  },
+  {
+    "question": "Sog’lom turmush tarzi – bu:",
+    "answer1": "salomatlikni saqlash va mustahkamlashga qaratilgan inson xattiharakatlarining individual tizimi",
+    "answer2": "jismoniy tizimli mashqlarni bajarish",
+    "answer3": "insonning salomatlik haqidagi bilimlaridan tashkil topgan dunyoqarashi",
+    "answer4": "insonning ruxiy salomatligi haqidagi bilimlaridan tashkil topgan dunyoqarashi",
+    "correct_answer": "salomatlikni saqlash va mustahkamlashga qaratilgan inson xattiharakatlarining individual tizimi"
+  },
+  {
+    "question": "Sog’lom turmush tarziga berilan ta’rifni belilang:",
+    "answer1": "salomatlikni saqlash va mustahkamlashga qaratilgan inson xattiharakatlarining individual tizimi",
+    "answer2": "jismoniy tizimli mashqlarni bajarish",
+    "answer3": "insonning salomatlik haqidagi bilimlaridan tashkil topgan dunyoqarashi",
+    "answer4": "insonning ruxiy salomatligi haqidagi bilimlaridan tashkil topgan dunyoqarashi",
+    "correct_answer": "salomatlikni saqlash va mustahkamlashga qaratilgan inson xattiharakatlarining individual tizimi"
+  },
+  {
+    "question": "Patronaj hamshirasi o’zining qanday ko’nikmalarini oshirib borishi kerak:",
+    "answer1": "amaliy",
+    "answer2": "nazariy",
+    "answer3": "maorifiy",
+    "answer4": "ta’limiy",
+    "correct_answer": "amaliy"
+  },
+  {
+    "question": "Noverbal muloqot qanday amalga oshadi:",
+    "answer1": "bir insonnig ko’p kishilik guruh bilan suhbati",
+    "answer2": "imo-ishora, qo’l va gavda harakati bilan muomalada bo’lish",
+    "answer3": "og’zaki muloqot",
+    "answer4": "muloqotni samarali olib boorish",
+    "correct_answer": "imo-ishora, qo’l va gavda harakati bilan muomalada bo’lish"
+  },
+  {
+    "question": "Muloqot samarali bo’lishi uchun nechta element muhim:",
+    "answer1": "5ta",
+    "answer2": "3ta",
+    "answer3": "4ta",
+    "answer4": "2ta",
+    "correct_answer": "5ta"
+  },
+  {
+    "question": "Inson his-tuyg’lari va emotsiyalarining tashqi ko’rinishi muloqotning qaysi vositasi orqali namoyon bo’ladi:",
+    "answer1": "ichki shaxsiy muloqot",
+    "answer2": "o’zaro shaxsiy muloqot",
+    "answer3": "noverbal muloqot",
+    "answer4": "verbal muloqot",
+    "correct_answer": "noverbal muloqot"
+  },
+  {
+    "question": "Tana haroratini o’lchash joylari:",
+    "answer1": "og’iz bo’shlig’i, qo’ltiq osti, to’g’ri ichak",
+    "answer2": "qo’ltiq osti, to’g’ri ichak, tirsak bo’shlig’i",
+    "answer3": "og’iz bo’shlig’i, qo’ltiq osti, peshonada, tizza bo’shlig’i, to’g’ri ichak",
+    "answer4": "og’iz bo’shlig’i, tizza bo’g’imi, quloq ortida",
+    "correct_answer": "og’iz bo’shlig’i, qo’ltiq osti, to’g’ri ichak"
+  },
+  {
+    "question": "Puls qaysi sohalarda aniqlanadi:",
+    "answer1": "chakka, uyqu arteriyasi, bilak sohasi, tizza ko’zi osti (taqim arteriyasi, to’piqning ichki qismida",
+    "answer2": "ensa soxasidan, qorin va oshqozon soxasida, barmoqda",
+    "answer3": "boshning yuqori qismida, peshona soxasida, qovuqda, to’piqda",
+    "answer4": "jag ostida, qorin va oshqozon soxasida, tizzada, boldirda, kichik chanoq soxasida",
+    "correct_answer": "chakka, uyqu arteriyasi, bilak sohasi, tizza ko’zi osti (taqim arteriyasi, to’piqning ichki qismida"
+  },
+  {
+    "question": "Nafas a’zolari kasalliklari ko’pincha qaysi belgilar bilan namoyon bo’ladi:",
+    "answer1": "nafas qisishi, yo’tal, qon tupurish, ko’krak qafasida og’riq, tana harorati ko’tarilishi",
+    "answer2": "nafas tezlashishi yoki to’xtab qolishi",
+    "answer3": "puls tezlashishi, balg’am tashlash, ishtahaning keskin oshib ketishi",
+    "answer4": "ko’krak qafasining yuqori qismida simillagan og’riq paydo bo’lishi, tana xaroratining birdaniga tushib ketishi",
+    "correct_answer": "nafas qisishi, yo’tal, qon tupurish, ko’krak qafasida og’riq, tana harorati ko’tarilishi"
+  },
+  {
+    "question": "Tana haroratning o’zgarishiga qarab, isitmaning quyidagi turlari farqlanadi:",
+    "answer1": "doimiy yuqori isitma, remittirlovchi isitma, almashinib turadigan isitma, to’lqinsimon isitma, gektik isitma",
+    "answer2": "qisqa muddatli isitma, o’tkir isitma, o’rtacha isitma",
+    "answer3": "surunkali isitma, doimiy isitma, normal isitma",
+    "answer4": "aralash isitma, doimiy remittirlovchi isitma, almashinib turadigan isitma, to’lqinsimon isitma",
+    "correct_answer": "doimiy yuqori isitma, remittirlovchi isitma, almashinib turadigan isitma, to’lqinsimon isitma, gektik isitma"
+  },
+  {
+    "question": "Ota-ona o’smirga qanday mavzular haqida tarbiyaviy suhbat o’tkazishi lozim:",
+    "answer1": "javobgarlik xissi, jinsiy xulq-atvor tarbiyasi, o’smirlik davri muammolari, organizmdagi tabiiy o’zgarishlar, shaxsiy gigiyena qoidalari",
+    "answer2": "o’z-o’zini moddiy ta’minlash xissi, jinsiy aloqa, o’smirlik davridagi kasalliklar haqida",
+    "answer3": "organizmdagi salbiy o’zgarishlar, shaxsiy mulkka egalik xissi",
+    "answer4": "kelajakdagi orzu va niyatlarni rejalashtirish haqida, chekish va alkogolizmning organizmga ta’siri haqida",
+    "correct_answer": "javobgarlik xissi, jinsiy xulq-atvor tarbiyasi, o’smirlik davri muammolari, organizmdagi tabiiy o’zgarishlar, shaxsiy gigiyena qoidalari"
+  },
+  {
+    "question": "Hamshiralik jarayoni- bu:",
+    "answer1": "bemorni davolash",
+    "answer2": "hamshiralik parvarishiga sistematik yondashuvi",
+    "answer3": "bemorni ovqatlantirish",
+    "answer4": "bemorga rahbarlik qilish",
+    "correct_answer": "hamshiralik parvarishiga sistematik yondashuvi"
+  },
+  {
+    "question": "JSSTning sog’lom oilani shakllantirish asosiy tamoyillarini ko’rsating:",
+    "answer1": "kam bola tug’ish, umuman farzandsizlik, ekstragenital kasalliklar bilan kechadigan kasalliklar",
+    "answer2": "juda erta farzand ko’rish, juda kech farzand ko’rish, farzandlar orasidagi davr, ko’p bola tug’ish, homiladorlikni kasallik bilan kechishi",
+    "answer3": "o’ziga yoqmaydigan jinsli homiladan voz kechish, ko’p bola tashlash, rezus nomutanosiblik",
+    "answer4": "tez-tez farzand ko’rish, juda kech farzand ko’rish, yaqin qarindoshlar o’rtasidagi nikoh, farzandlar orasidagi davrning kamligi, ko’p bola tug’ish, homiladorlikning yuqumli kasallik bilan kechishi",
+    "correct_answer": "tez-tez farzand ko’rish, juda kech farzand ko’rish, yaqin qarindoshlar o’rtasidagi nikoh, farzandlar orasidagi davrning kamligi, ko’p bola tug’ish, homiladorlikning yuqumli kasallik bilan kechishi"
+  },
+  {
+    "question": "Xalqaro hamshiralar kuni qachon nishonlanadi:",
+    "answer1": "7 may",
+    "answer2": "3 may",
+    "answer3": "12 may",
+    "answer4": "12 aprel",
+    "correct_answer": "12 may"
+  },
+  {
+    "question": "Oilaviy poliklinika qanday bo’g’in:",
+    "answer1": "uchlamchi bo’g’in",
+    "answer2": "birlamchi bo’g’in",
+    "answer3": "oraliq bo’g’in",
+    "answer4": "iIkkilamchi bo’g’in",
+    "correct_answer": "birlamchi bo’g’in"
+  },
+  {
+    "question": "Yotoq yara hosil bo’lmaydigan sohalarini aniqlang:",
+    "answer1": "tos sohasi, tovon sahasi, dumg’aza",
+    "answer2": "ensa sohasi, tovon, kurak sohasi",
+    "answer3": "qorin sohasi, yuz peshona sohasi",
+    "answer4": "to’piq, oyoq barmoqlari sohasi",
+    "correct_answer": "qorin sohasi, yuz peshona sohasi"
+  },
+  {
+    "question": "Diyetoterapiya termini nimani anglatadi:",
+    "answer1": "statsionarda ovqatlantirish",
+    "answer2": "to’laqonli ovqatlantirish",
+    "answer3": "davo maqsadida ovqatlantirish",
+    "answer4": "och holda davolash",
+    "correct_answer": "davo maqsadida ovqatlantirish"
+  },
+  {
+    "question": "Sun’iy ovqatlantirishga qaysi javob kirmaydi:",
+    "answer1": "gastrostoma orqali",
+    "answer2": "parenteral ovqatlantirish",
+    "answer3": "choynaksimon idish va qoshiq yordamida",
+    "answer4": "Burun yoki og’izdan zond orqali ovqatlantirish",
+    "correct_answer": "parenteral ovqatlantirish"
+  },
+  {
+    "question": "Tana haroratini o’lchashdan oldin nima uchun qo’ltiq sohasi quruq qilib artiladi:",
+    "answer1": "termometr yaxshi turishi uchun",
+    "answer2": "bemorga sovuq bo’lmasligi uchun",
+    "answer3": "gigiyenik maqsadda",
+    "answer4": "natija noto’g’ri bo’lmasligi uchun",
+    "correct_answer": "natija noto’g’ri bo’lmasligi uchun"
+  },
+  {
+    "question": "Tana harorati kritik tushganda bemorni parvarish qilish uchun qanday muolajalar o’tkaziladi:",
+    "answer1": "bemor oqliklarini va ich kiyimlarini almashtiriladi",
+    "answer2": "bemorga muzli xaltacha qo’yiladi",
+    "answer3": "yotoq yarani oldini olinadi",
+    "answer4": "bemor isitiladi va issiq choy beriladi",
+    "correct_answer": "bemor isitiladi va issiq choy beriladi"
+  },
+  {
+    "question": "Tana harorati qaysi asbob yordamida o’lchanadi:",
+    "answer1": "dinamometr",
+    "answer2": "termometr",
+    "answer3": "monometr",
+    "answer4": "spirometr",
+    "correct_answer": "termometr"
+  },
+  {
+    "question": "Termometrni birinchi qanday suvda xo’jalik sovuni bilan yuviladi:",
+    "answer1": "qaynagan suvda",
+    "answer2": "oqar suvda",
+    "answer3": "distillangan suvda",
+    "answer4": "gazli suvda",
+    "correct_answer": "oqar suvda"
+  },
+  {
+    "question": "Puls ritmining buzilishi qanday ataladi:",
+    "answer1": "taxisfigmiya",
+    "answer2": "bradikardiya",
+    "answer3": "bradisfigmiya",
+    "answer4": "aritmiya",
+    "correct_answer": "aritmiya"
+  },
+  {
+    "question": "Minimal arterial qon bosim qanday ataladi:",
+    "answer1": "sistolik",
+    "answer2": "diastolik",
+    "answer3": "asistolik",
+    "answer4": "puls bosimi",
+    "correct_answer": "diastolik"
+  },
+  {
+    "question": "Harorat tushushining qanday turlarini bilasiz:",
+    "answer1": "febril, litik, gipertermik",
+    "answer2": "subnormal, normal",
+    "answer3": "kritik, litik",
+    "answer4": "peretik, giperperetik, sistolik",
+    "correct_answer": "kritik, litik"
+  },
+  {
+    "question": "Muloqotning verbal turiga qaysilar kiradi:",
+    "answer1": "yozma muloqot",
+    "answer2": "imo- ishira bilan muloqot",
+    "answer3": "og’zaki muloqot",
+    "answer4": "ichki shaxsiy muloqot",
+    "correct_answer": "og’zaki muloqot"
+  },
+  {
+    "question": "Antropometriya nima:",
+    "answer1": "bemorning tana haroratini o’lchash",
+    "answer2": "bemor og’irligi, bo’yi va ko’krak aylanasini o’lchash",
+    "answer3": "qo’l va oyoq mushaklari kuchini olchash",
+    "answer4": "o’pkaning tiriklik sig’imini o’lchash",
+    "correct_answer": "bemor og’irligi, bo’yi va ko’krak aylanasini o’lchash"
+  },
+  {
+    "question": "Yotoq yara hosil bo’lishining tashqi sabablariga kiradi:",
+    "answer1": "darmonsizlik, qarilik davri",
+    "answer2": "gigiyenik muolajalarni to’g’ri bajarish",
+    "answer3": "kiyim va oqliklarda burmalarning hosil bo’lishi",
+    "answer4": "kam va sifatsiz ovqat yeyish",
+    "correct_answer": "kiyim va oqliklarda burmalarning hosil bo’lishi"
+  },
+  {
+    "question": "Bemorni yarim o’tirgan va yarim yotgan xolati qanday ataladi:",
+    "answer1": "“Sims” xolati",
+    "answer2": "“Trendelenburg” xolati",
+    "answer3": "‘‘Majburiy’’ xolat",
+    "answer4": "“Fauler” xolati",
+    "correct_answer": "“Fauler” xolati"
+  },
+  {
+    "question": "Uy sharoitida hamshiralik parvarishining kamchiliklari:",
+    "answer1": "Nisbatan kam vaqtni oladi",
+    "answer2": "Nisbatan ko’p vaqtni oladi",
+    "answer3": "Ko’p vaqtni talab etmaydi",
+    "answer4": "Bemor to’liq tuzalib ketadi",
+    "correct_answer": "Nisbatan ko’p vaqtni oladi"
+  },
+  {
+    "question": "Pulsning tezlashuvi nima deb ataladi:",
+    "answer1": "taxipnoe",
+    "answer2": "taxikardiya",
+    "answer3": "gipotoniya",
+    "answer4": "bradikardiya",
+    "correct_answer": "taxikardiya"
+  },
+  {
+    "question": "Nafas olishning tezlashishini anglatuvchi termini toping:",
+    "answer1": "dispnoe",
+    "answer2": "taxipnoye",
+    "answer3": "apnoe",
+    "answer4": "bradipnoe",
+    "correct_answer": "taxipnoye"
+  },
+  {
+    "question": "Arterial qon bosimi qaysi asbobda o’lchanadi:",
+    "answer1": "manometr",
+    "answer2": "urometr",
+    "answer3": "termometr",
+    "answer4": "Tonometr",
+    "correct_answer": "Tonometr"
+  },
+  {
+    "question": "Dezinfektsiya turlariga qaysilar kiradi:",
+    "answer1": "kimyoviy, biologik, texnik",
+    "answer2": "profilaktik va o’choqli",
+    "answer3": "fizikaviy, kimyoviy, biologik",
+    "answer4": "mexanik, fizik, ijtimoiy",
+    "correct_answer": "fizikaviy, kimyoviy, biologik"
+  }
+]

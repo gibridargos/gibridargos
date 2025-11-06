@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Agar shifokor murojaat epizodidan bemorni gospitalizatsiyaga yo'naltirsa, nimani qilmaganda u gospitalizatsiya yo'naltirishini yarata olmaydi?",
+    "answer1": "Murojaat epizodida murojaat sababini ko'rsatmaganda",
+    "answer2": "Murojaat epizodida bemorni d-hisobga qo'ymaganda",
+    "answer3": "Murojaat epizodida MKB-10 bo'yicha hech bo'lmaganda bitta diagnoz qo'ymaganda",
+    "answer4": "Murojaat epizodidan yo'naltirish yaratish uchun hech qanday majburiy shartlar yo'q",
+    "correct_answer": "Murojaat epizodida MKB-10 bo'yicha hech bo'lmaganda bitta diagnoz qo'ymaganda"
+  },
+  {
+    "question": "Yo'naltirish yaratishda bir nechta gospitalizatsiya maqsadini tanlash mumkinmi?",
+    "answer1": "Ha, mumkin",
+    "answer2": "Yo'q, mumkin emas",
+    "answer3": "",
+    "answer4": "",
+    "correct_answer": "Ha, mumkin"
+  },
+  {
+    "question": "Poliklinikadan gospitalizatsiyaga yo'naltirilgan bemorlar tizimning qaysi bo'limiga tushadi?",
+    "answer1": "Qabullar → Aktiv",
+    "answer2": "Statsionar → Jarayonda",
+    "answer3": "Qabul bo'limi → Yo'llanmalar",
+    "answer4": "Gospitalizatsiya → Yaratilgan",
+    "correct_answer": "Gospitalizatsiya → Yaratilgan"
+  },
+  {
+    "question": "Shifokor qaysi statsionar ko'rigini faqat bir marta o'tkazisholadi?",
+    "answer1": "Bo'limdagi ko'rik",
+    "answer2": "Birlamchi ko'rik",
+    "answer3": "Tor mutaxassis ko'rigi",
+    "answer4": "Barcha ko'riklarni necha marta bo'lishidan qilish mumkin",
+    "correct_answer": "Birlamchi ko'rik"
+  },
+  {
+    "question": "Bemorni statsionarga rasmiylashtirganda nima avtomatik ochiladi?",
+    "answer1": "Tibbiy karta",
+    "answer2": "Profil",
+    "answer3": "Kasallik tarixi",
+    "answer4": "Hech narsa ochilmaydi",
+    "correct_answer": "Kasallik tarixi"
+  },
+  {
+    "question": "Kasallik tarixida 096 formasini ochish uchun qanday amalni bajarish kerak?",
+    "answer1": "Bemorni tug'ruqxonaga joylashtirisn",
+    "answer2": "096 forma faqat tug'ruqxona va perznatal markazlarda avtomatik ochiladi",
+    "answer3": "Joylashtirshda gospitalizatsiya maqsadini faqat \"Tug'ish\" tanlash",
+    "answer4": "Bemor ayol jinsida bo'lishi kerak",
+    "correct_answer": "096 forma faqat tug'ruqxona va perznatal markazlarda avtomatik ochiladi"
+  },
+  {
+    "question": "Bemorni statsionarning boshqa bo'limiga ko'chirish mumkinmi?",
+    "answer1": "Ha, mumkin, agar boshqa bo'limda bo'sh palatalar bo'lsa",
+    "answer2": "Yo'q, mumkin emas, ko'chirish faqat joriy bo'lim ichida mavjud",
+    "answer3": "",
+    "answer4": "",
+    "correct_answer": "Ha, mumkin, agar boshqa bo'limda bo'sh palatalar bo'lsa"
+  },
+  {
+    "question": "Gospitalizatsiyani tugatish uchun qaysi hujjat mutlaqo to'ldirilishi kerak?",
+    "answer1": "Chiqarish epikrizi",
+    "answer2": "Klinik diagnoz asoslashi",
+    "answer3": "Bo'limdagi ko'rik",
+    "answer4": "Bosqichma-bosqich epikriz",
+    "correct_answer": "Chiqarish epikrizi"
+  },
+  {
+    "question": "Hamshira qaysi omborning tovar qoldiqlarini ko'rib chiqishga ruxsati bor?",
+    "answer1": "Ombor mudiri uni biriktirgan omborning tovar qoldiqlari",
+    "answer2": "Markaziy ombordagi tovar qoldiqlari",
+    "answer3": "Barcha omborlarning tovar qoldiqlari",
+    "answer4": "Hamshirada biror omborning tovar qoldiqlarini ko'rib chiqish imkoniyati yo'q",
+    "correct_answer": "Ombor mudiri uni biriktirgan omborning tovar qoldiqlari"
+  },
+  {
+    "question": "Laborant tahlil natijalarini tizimga kiritgandan so'ng nima qilish kerak?",
+    "answer1": "Tahlilni tasdiqlash",
+    "answer2": "Tahlilni chop etish",
+    "answer3": "Tahlilni shifokorga yuborish",
+    "answer4": "Tahlilni bemorga yuborish",
+    "correct_answer": "Tahlilni tasdiqlash"
+  },
+  {
+    "question": "Ctrl + B tugmalari nima vazifa bajaradi?",
+    "answer1": "Matnni qalin (bold) qiladi",
+    "answer2": "Matnni pastga suradi",
+    "answer3": "Matnni o’chiradi",
+    "answer4": "Matnni tagiga chizadi",
+    "correct_answer": "Matnni qalin (bold) qiladi"
+  },
+  {
+    "question": "Wordda shrift (font) oʻlchami qayerdan sozlanadi?",
+    "answer1": "Home menyusidagi Font size qutisidan",
+    "answer2": "Insert → Shapes menyusida",
+    "answer3": "Insert → Table menyusidan",
+    "answer4": "Insert → Link yordamida",
+    "correct_answer": "Home menyusidagi Font size qutisidan"
+  },
+  {
+    "question": "Sahifa raqamini qanday qoʻshish mumkin?",
+    "answer1": "File → save as",
+    "answer2": "Insert → Page Number",
+    "answer3": "Design → page number",
+    "answer4": "Review → add page",
+    "correct_answer": "Insert → Page Number"
+  },
+  {
+    "question": "Ctrl + S tugmalari nima uchun ishlatiladi?",
+    "answer1": "Hujjatni saqlash uchun",
+    "answer2": "Hujjatni chop etish uchun",
+    "answer3": "Hujjatni yopish uchun",
+    "answer4": "Yangi hujjat ochish uchun",
+    "correct_answer": "Hujjatni saqlash uchun"
+  },
+  {
+    "question": "Wordda hujjatga rasmni qanday qoʻshiladi?",
+    "answer1": "Insert → Picture menyusidan",
+    "answer2": "Insert → Table menyusidan",
+    "answer3": "Home menyusida Numbering tugmasi bilan",
+    "answer4": "Home menyusidagi Font size qutisidan",
+    "correct_answer": "Insert → Picture menyusidan"
+  },
+  {
+    "question": "Ctrl + C va Ctrl + V nima vazifani bajaradi?",
+    "answer1": "Nusxa oilsh va joylashtirish",
+    "answer2": "Matnni qalin qilish",
+    "answer3": "Jadval qo’shish",
+    "answer4": "Hujjatni yopish",
+    "correct_answer": "Nusxa oilsh va joylashtirish"
+  },
+  {
+    "question": "Word hujjatini qanday chop etiladi?",
+    "answer1": "File → Print yoki Ctrl +P",
+    "answer2": "Insert → save",
+    "answer3": "Design → print",
+    "answer4": "Servis → out",
+    "correct_answer": "File → Print yoki Ctrl +P"
+  },
+  {
+    "question": "Wordda jadval (table) qanday qoʻshiladi?",
+    "answer1": "Insert → Table menyusidan",
+    "answer2": "Home menyusida Numbering tugmasi bilan",
+    "answer3": "Layout → Columns → Two tanlanadi",
+    "answer4": "Insert → Link yordamida",
+    "correct_answer": "Insert → Table menyusidan"
+  },
+  {
+    "question": "Hujjatni qanday saqlash mumkin?",
+    "answer1": "File → Save yoki Ctrl + S",
+    "answer2": "Ctrl + B",
+    "answer3": "Ctrl + P",
+    "answer4": "View → Zoom",
+    "correct_answer": "File → Save yoki Ctrl + S"
+  },
+  {
+    "question": "Qaysi menyuda ʼBoldʼ, ʼItalicʼ, ʼUnderlineʼ opsiyalari mavjud?",
+    "answer1": "Home menyusining Font guruhida",
+    "answer2": "Design menyusida",
+    "answer3": "Insert → Chart menyusida",
+    "answer4": "Insert → Text Box",
+    "correct_answer": "Home menyusining Font guruhida"
+  },
+  {
+    "question": "Hamshiralik ishiga asos solgan inson:",
+    "answer1": "F.Naytingeуl",
+    "answer2": "Abu Ali Ibn Sino",
+    "answer3": "N.I Aripov",
+    "answer4": "Gipokrat",
+    "correct_answer": "F.Naytingeуl"
+  }
+]
