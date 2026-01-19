@@ -28,7 +28,7 @@ document.querySelectorAll(".test-btn").forEach(btn => {
     if (
       text.includes("УАШ 3") ||
       text.includes("УАШ 4") ||
-      text.includes("ХАМШИРА 3") ||
+    
       text.includes("ХАМШИРА 4")
     ) {
       modal.classList.remove("hidden"); // modalni ochish
