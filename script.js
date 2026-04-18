@@ -26,10 +26,9 @@ document.querySelectorAll(".test-btn").forEach(btn => {
 
     // 🔒 3 ва 4 модул учун маълумот чиқариш (alert o‘rniga modal)
     if (
-      text.includes("УАШ 3") ||
+      text.includes("УАШ 5") ||
       text.includes("УАШ 4") ||
     
-      text.includes("ХАМШИРА 4")
     ) {
       modal.classList.remove("hidden"); // modalni ochish
       selectedTest = null;
